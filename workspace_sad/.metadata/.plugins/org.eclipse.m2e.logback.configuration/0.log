@@ -1,0 +1,1008 @@
+2015-05-09 21:26:57,034 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: org.apache.servicemix.examples:activiti-camel:5.4.0 @ /home/new482/apache-servicemix-5.4.0/examples/activiti/activiti-camel/pom.xml.
+2015-05-09 21:26:57,620 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /activiti-camel/src/main/java
+2015-05-09 21:26:57,620 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /activiti-camel/src/main/resources
+2015-05-09 21:26:57,621 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /activiti-camel/src/test/java
+2015-05-09 21:26:57,785 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2015-05-09 21:26:59,172 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: org.apache.servicemix.examples:activiti-camel:5.4.0 @ /home/new482/apache-servicemix-5.4.0/examples/activiti/activiti-camel/pom.xml.
+2015-05-09 21:26:59,701 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-09 21:26:59,713 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-05-09 21:26:59,737 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-09 21:26:59,737 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/apache-servicemix-5.4.0/examples/activiti/activiti-camel/src/test/resources
+2015-05-09 21:27:00,272 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: org.apache.servicemix.examples:activiti-camel:5.4.0 @ /home/new482/apache-servicemix-5.4.0/examples/activiti/activiti-camel/pom.xml.
+2015-05-09 21:27:06,062 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-09 21:27:06,065 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 21:27:06,068 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-09 21:27:06,068 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/apache-servicemix-5.4.0/examples/activiti/activiti-camel/src/test/resources
+2015-05-09 21:44:29,416 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-09 21:44:29,420 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 21:44:29,422 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-09 21:44:29,422 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/apache-servicemix-5.4.0/examples/activiti/activiti-camel/src/test/resources
+2015-05-09 21:57:58,350 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-09 21:57:58,381 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-05-09 21:57:58,401 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-09 21:57:58,401 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/apache-servicemix-5.4.0/examples/activiti/activiti-camel/src/test/resources
+2015-05-09 21:58:38,627 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-09 21:58:38,651 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-05-09 21:58:38,653 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-09 21:58:38,654 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-05-09 21:59:09,603 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-09 21:59:09,603 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 21:59:09,605 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-09 21:59:09,606 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 21:59:10,669 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-09 21:59:10,669 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 21:59:10,670 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-09 21:59:10,671 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 22:07:13,759 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-09 22:07:13,761 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-05-09 22:07:13,763 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-09 22:07:13,764 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-10 09:42:47,126 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: org.apache.servicemix.examples:activiti-camel:5.4.0 @ /home/new482/apache-servicemix-5.4.0/examples/activiti/activiti-camel/pom.xml.
+2015-05-10 09:42:49,562 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 09:42:49,570 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-05-10 09:42:49,585 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 09:42:49,586 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-05-10 09:43:15,773 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 09:43:15,790 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-10 09:43:15,793 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 09:43:15,794 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-10 09:43:16,890 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 09:43:16,890 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-10 09:43:16,893 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 09:43:16,893 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-10 10:02:37,763 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 10:02:37,766 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-05-10 10:02:37,770 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 10:02:37,771 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-10 10:12:24,336 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: org.apache.servicemix.examples:activiti-camel:5.4.0 @ /home/new482/apache-servicemix-5.4.0/examples/activiti/activiti-camel/pom.xml.
+2015-05-10 10:12:25,553 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 10:12:25,564 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-05-10 10:12:25,585 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 10:12:25,586 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-05-10 10:12:25,754 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: org.apache.servicemix.examples:activiti-camel:5.4.0 @ /home/new482/apache-servicemix-5.4.0/examples/activiti/activiti-camel/pom.xml.
+2015-05-10 10:12:28,568 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 10:12:28,574 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-10 10:12:28,577 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 10:12:28,577 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-10 10:26:39,096 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 10:26:39,099 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-05-10 10:26:39,106 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 10:26:39,108 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-10 10:39:56,913 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 10:39:56,914 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-05-10 10:39:56,916 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 10:39:56,917 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-10 10:40:06,201 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 10:40:06,202 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-05-10 10:40:06,205 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 10:40:06,205 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-10 10:40:40,072 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 10:40:40,073 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-05-10 10:40:40,077 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 10:40:40,079 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-10 10:44:15,262 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 10:44:15,263 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-05-10 10:44:15,268 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 10:44:15,269 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-10 10:50:48,936 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 10:50:48,937 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-05-10 10:50:48,939 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 10:50:48,939 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-10 10:51:53,466 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 10:51:53,467 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-05-10 10:51:53,469 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 10:51:53,470 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-10 10:52:56,906 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 10:52:56,907 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-05-10 10:52:56,914 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 10:52:56,915 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-10 10:53:01,574 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 10:53:01,574 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-10 10:53:01,577 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 10:53:01,579 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-10 10:53:13,947 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 10:53:13,947 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-10 10:53:13,949 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 10:53:13,949 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-10 11:00:20,602 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 11:00:20,603 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-05-10 11:00:20,605 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 11:00:20,606 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-10 11:02:14,444 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 11:02:14,446 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-05-10 11:02:14,449 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 11:02:14,449 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-10 11:28:38,509 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 11:28:38,510 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-05-10 11:28:38,513 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 11:28:38,514 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-10 11:47:59,744 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 11:47:59,746 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-05-10 11:47:59,748 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 11:47:59,749 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-10 11:53:56,493 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 11:53:56,494 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-10 11:53:56,495 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 11:53:56,496 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-10 11:57:46,947 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 11:57:46,947 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-10 11:57:46,949 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 11:57:46,950 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-10 12:06:45,000 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 12:06:45,001 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-10 12:06:45,003 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 12:06:45,003 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-10 12:13:20,327 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/activiti/activiti-engine/5.14/activiti-engine-5.14.pom
+2015-05-10 12:13:21,175 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/activiti/activiti-engine/5.14/activiti-engine-5.14.pom
+2015-05-10 12:13:21,411 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/activiti/activiti-root/5.14/activiti-root-5.14.pom
+2015-05-10 12:13:22,092 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/activiti/activiti-root/5.14/activiti-root-5.14.pom
+2015-05-10 12:13:22,345 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/activiti/activiti-bpmn-converter/5.14/activiti-bpmn-converter-5.14.pom
+2015-05-10 12:13:22,797 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/activiti/activiti-bpmn-converter/5.14/activiti-bpmn-converter-5.14.pom
+2015-05-10 12:13:23,035 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/activiti/activiti-bpmn-model/5.14/activiti-bpmn-model-5.14.pom
+2015-05-10 12:13:23,489 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/activiti/activiti-bpmn-model/5.14/activiti-bpmn-model-5.14.pom
+2015-05-10 12:13:23,826 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.2/slf4j-api-1.7.2.pom
+2015-05-10 12:13:24,373 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.2/slf4j-api-1.7.2.pom
+2015-05-10 12:13:24,605 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.2/slf4j-parent-1.7.2.pom
+2015-05-10 12:13:25,278 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.2/slf4j-parent-1.7.2.pom
+2015-05-10 12:13:25,509 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.7.2/jcl-over-slf4j-1.7.2.pom
+2015-05-10 12:13:26,048 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.7.2/jcl-over-slf4j-1.7.2.pom
+2015-05-10 12:13:26,376 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/mybatis/mybatis/3.2.2/mybatis-3.2.2.pom
+2015-05-10 12:13:27,128 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/mybatis/mybatis/3.2.2/mybatis-3.2.2.pom
+2015-05-10 12:13:27,362 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/mybatis/mybatis-parent/18/mybatis-parent-18.pom
+2015-05-10 12:13:28,039 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/mybatis/mybatis-parent/18/mybatis-parent-18.pom
+2015-05-10 12:13:28,276 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-beans/3.1.2.RELEASE/spring-beans-3.1.2.RELEASE.pom
+2015-05-10 12:13:28,729 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-beans/3.1.2.RELEASE/spring-beans-3.1.2.RELEASE.pom
+2015-05-10 12:13:28,963 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-parent/3.1.2.RELEASE/spring-parent-3.1.2.RELEASE.pom
+2015-05-10 12:13:29,506 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-parent/3.1.2.RELEASE/spring-parent-3.1.2.RELEASE.pom
+2015-05-10 12:13:29,741 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-core/3.1.2.RELEASE/spring-core-3.1.2.RELEASE.pom
+2015-05-10 12:13:30,193 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-core/3.1.2.RELEASE/spring-core-3.1.2.RELEASE.pom
+2015-05-10 12:13:30,429 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-asm/3.1.2.RELEASE/spring-asm-3.1.2.RELEASE.pom
+2015-05-10 12:13:30,881 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-asm/3.1.2.RELEASE/spring-asm-3.1.2.RELEASE.pom
+2015-05-10 12:13:31,125 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/activiti/activiti-spring/5.14/activiti-spring-5.14.pom
+2015-05-10 12:13:32,038 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/activiti/activiti-spring/5.14/activiti-spring-5.14.pom
+2015-05-10 12:13:32,273 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-context/3.1.2.RELEASE/spring-context-3.1.2.RELEASE.pom
+2015-05-10 12:13:32,725 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-context/3.1.2.RELEASE/spring-context-3.1.2.RELEASE.pom
+2015-05-10 12:13:32,962 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-aop/3.1.2.RELEASE/spring-aop-3.1.2.RELEASE.pom
+2015-05-10 12:13:33,414 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-aop/3.1.2.RELEASE/spring-aop-3.1.2.RELEASE.pom
+2015-05-10 12:13:33,649 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-expression/3.1.2.RELEASE/spring-expression-3.1.2.RELEASE.pom
+2015-05-10 12:13:34,101 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-expression/3.1.2.RELEASE/spring-expression-3.1.2.RELEASE.pom
+2015-05-10 12:13:34,419 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/3.1.2.RELEASE/spring-jdbc-3.1.2.RELEASE.pom
+2015-05-10 12:13:34,957 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/3.1.2.RELEASE/spring-jdbc-3.1.2.RELEASE.pom
+2015-05-10 12:13:35,190 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-tx/3.1.2.RELEASE/spring-tx-3.1.2.RELEASE.pom
+2015-05-10 12:13:35,643 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-tx/3.1.2.RELEASE/spring-tx-3.1.2.RELEASE.pom
+2015-05-10 12:13:35,878 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-orm/3.1.2.RELEASE/spring-orm-3.1.2.RELEASE.pom
+2015-05-10 12:13:36,417 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-orm/3.1.2.RELEASE/spring-orm-3.1.2.RELEASE.pom
+2015-05-10 12:13:36,740 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-pool/commons-pool/1.5.4/commons-pool-1.5.4.pom
+2015-05-10 12:13:37,424 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-pool/commons-pool/1.5.4/commons-pool-1.5.4.pom
+2015-05-10 12:13:37,661 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-all/2.0.4/groovy-all-2.0.4.pom
+2015-05-10 12:13:38,336 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-all/2.0.4/groovy-all-2.0.4.pom
+2015-05-10 12:13:38,569 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/h2database/h2/1.3.168/h2-1.3.168.pom
+2015-05-10 12:13:39,021 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/h2database/h2/1.3.168/h2-1.3.168.pom
+2015-05-10 12:13:39,252 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/slf4j-jdk14/1.7.2/slf4j-jdk14-1.7.2.pom
+2015-05-10 12:13:39,790 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/slf4j-jdk14/1.7.2/slf4j-jdk14-1.7.2.pom
+2015-05-10 12:13:40,050 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/activiti/activiti-engine/5.14/activiti-engine-5.14.jar
+2015-05-10 12:13:43,654 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/activiti/activiti-engine/5.14/activiti-engine-5.14.jar
+2015-05-10 12:13:43,883 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/activiti/activiti-bpmn-converter/5.14/activiti-bpmn-converter-5.14.jar
+2015-05-10 12:13:44,438 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/activiti/activiti-bpmn-converter/5.14/activiti-bpmn-converter-5.14.jar
+2015-05-10 12:13:44,750 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/activiti/activiti-bpmn-model/5.14/activiti-bpmn-model-5.14.jar
+2015-05-10 12:13:45,873 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/activiti/activiti-bpmn-model/5.14/activiti-bpmn-model-5.14.jar
+2015-05-10 12:13:46,103 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/mybatis/mybatis/3.2.2/mybatis-3.2.2.jar
+2015-05-10 12:13:47,877 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/mybatis/mybatis/3.2.2/mybatis-3.2.2.jar
+2015-05-10 12:13:48,104 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-beans/3.1.2.RELEASE/spring-beans-3.1.2.RELEASE.jar
+2015-05-10 12:13:49,229 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-beans/3.1.2.RELEASE/spring-beans-3.1.2.RELEASE.jar
+2015-05-10 12:13:49,541 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-core/3.1.2.RELEASE/spring-core-3.1.2.RELEASE.jar
+2015-05-10 12:13:50,324 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-core/3.1.2.RELEASE/spring-core-3.1.2.RELEASE.jar
+2015-05-10 12:13:50,551 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.7.2/jcl-over-slf4j-1.7.2.jar
+2015-05-10 12:13:51,002 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.7.2/jcl-over-slf4j-1.7.2.jar
+2015-05-10 12:13:51,228 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/activiti/activiti-spring/5.14/activiti-spring-5.14.jar
+2015-05-10 12:13:52,596 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/activiti/activiti-spring/5.14/activiti-spring-5.14.jar
+2015-05-10 12:13:52,827 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-context/3.1.2.RELEASE/spring-context-3.1.2.RELEASE.jar
+2015-05-10 12:13:54,801 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-context/3.1.2.RELEASE/spring-context-3.1.2.RELEASE.jar
+2015-05-10 12:13:55,030 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-aop/3.1.2.RELEASE/spring-aop-3.1.2.RELEASE.jar
+2015-05-10 12:13:55,964 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-aop/3.1.2.RELEASE/spring-aop-3.1.2.RELEASE.jar
+2015-05-10 12:13:56,191 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-expression/3.1.2.RELEASE/spring-expression-3.1.2.RELEASE.jar
+2015-05-10 12:13:57,972 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-expression/3.1.2.RELEASE/spring-expression-3.1.2.RELEASE.jar
+2015-05-10 12:13:58,202 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-asm/3.1.2.RELEASE/spring-asm-3.1.2.RELEASE.jar
+2015-05-10 12:13:58,664 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-asm/3.1.2.RELEASE/spring-asm-3.1.2.RELEASE.jar
+2015-05-10 12:13:58,893 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/3.1.2.RELEASE/spring-jdbc-3.1.2.RELEASE.jar
+2015-05-10 12:14:00,381 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/3.1.2.RELEASE/spring-jdbc-3.1.2.RELEASE.jar
+2015-05-10 12:14:00,609 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-tx/3.1.2.RELEASE/spring-tx-3.1.2.RELEASE.jar
+2015-05-10 12:14:02,624 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-tx/3.1.2.RELEASE/spring-tx-3.1.2.RELEASE.jar
+2015-05-10 12:14:02,852 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-orm/3.1.2.RELEASE/spring-orm-3.1.2.RELEASE.jar
+2015-05-10 12:14:03,992 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-orm/3.1.2.RELEASE/spring-orm-3.1.2.RELEASE.jar
+2015-05-10 12:14:04,218 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-pool/commons-pool/1.5.4/commons-pool-1.5.4.jar
+2015-05-10 12:14:04,676 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-pool/commons-pool/1.5.4/commons-pool-1.5.4.jar
+2015-05-10 12:14:05,017 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-all/2.0.4/groovy-all-2.0.4.jar
+2015-05-10 12:14:07,885 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-all/2.0.4/groovy-all-2.0.4.jar
+2015-05-10 12:14:08,132 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/h2database/h2/1.3.168/h2-1.3.168.jar
+2015-05-10 12:14:09,731 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/h2database/h2/1.3.168/h2-1.3.168.jar
+2015-05-10 12:14:10,045 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.2/slf4j-api-1.7.2.jar
+2015-05-10 12:14:10,498 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.2/slf4j-api-1.7.2.jar
+2015-05-10 12:14:10,724 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/slf4j-jdk14/1.7.2/slf4j-jdk14-1.7.2.jar
+2015-05-10 12:14:11,176 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/slf4j-jdk14/1.7.2/slf4j-jdk14-1.7.2.jar
+2015-05-10 13:57:20,983 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/new482/workspace_sad/activiti1
+2015-05-10 13:57:20,987 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B eclipse:clean eclipse:eclipse
+2015-05-10 15:28:04,207 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 15:28:04,356 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-05-10 15:28:04,371 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 15:28:04,372 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-05-10 15:28:07,509 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 15:28:07,516 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-10 15:28:07,517 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 15:28:07,518 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-10 15:30:43,075 [Worker-49] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: org.apache.servicemix.examples:activiti-camel:5.4.0 @ /home/new482/apache-servicemix-5.4.0/examples/activiti/activiti-camel/pom.xml.
+2015-05-10 15:30:43,398 [Worker-49] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /activiti-camel/src/main/java
+2015-05-10 15:30:43,398 [Worker-49] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /activiti-camel/src/main/resources
+2015-05-10 15:30:43,399 [Worker-49] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /activiti-camel/src/test/java
+2015-05-10 15:30:43,399 [Worker-49] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /activiti-camel/src/test/resources
+2015-05-10 15:30:43,494 [Worker-49] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2015-05-10 15:30:44,132 [Worker-52] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: org.apache.servicemix.examples:activiti-camel:5.4.0 @ /home/new482/apache-servicemix-5.4.0/examples/activiti/activiti-camel/pom.xml.
+2015-05-10 15:30:44,398 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 15:30:44,399 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2015-05-10 15:30:44,409 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 15:30:44,410 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-05-10 15:30:45,559 [Worker-52] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: org.apache.servicemix.examples:activiti-camel:5.4.0 @ /home/new482/apache-servicemix-5.4.0/examples/activiti/activiti-camel/pom.xml.
+2015-05-10 15:30:47,505 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 15:30:47,506 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-10 15:30:47,511 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 15:30:47,513 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-10 15:33:35,416 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 15:33:35,419 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-10 15:33:35,421 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 15:33:35,422 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-10 15:34:03,862 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 15:34:03,863 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-10 15:34:03,865 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 15:34:03,866 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-10 15:35:56,783 [Worker-55] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: org.apache.servicemix.examples:activiti-camel:5.4.0 @ /home/new482/apache-servicemix-5.4.0/examples/activiti/activiti-camel/pom.xml.
+2015-05-10 15:35:57,071 [Worker-55] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /activiti-camel/src/main/java
+2015-05-10 15:35:57,071 [Worker-55] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /activiti-camel/src/main/resources
+2015-05-10 15:35:57,072 [Worker-55] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /activiti-camel/src/test/java
+2015-05-10 15:35:57,137 [Worker-55] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2015-05-10 15:35:57,504 [Worker-56] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: org.apache.servicemix.examples:activiti-camel:5.4.0 @ /home/new482/apache-servicemix-5.4.0/examples/activiti/activiti-camel/pom.xml.
+2015-05-10 15:35:57,726 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 15:35:57,727 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-05-10 15:35:57,730 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 15:35:57,731 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/apache-servicemix-5.4.0/examples/activiti/activiti-camel/src/test/resources
+2015-05-10 15:35:58,349 [Worker-56] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: org.apache.servicemix.examples:activiti-camel:5.4.0 @ /home/new482/apache-servicemix-5.4.0/examples/activiti/activiti-camel/pom.xml.
+2015-05-10 15:35:59,436 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 15:35:59,436 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-10 15:35:59,440 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 15:35:59,444 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/apache-servicemix-5.4.0/examples/activiti/activiti-camel/src/test/resources
+2015-05-10 15:39:32,976 [Worker-62] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/new482/apache-servicemix-5.4.0/examples/activiti/activiti-camel
+2015-05-10 15:39:32,977 [Worker-62] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-05-10 15:39:41,115 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 15:39:41,120 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-05-10 15:39:41,122 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 15:39:41,122 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/apache-servicemix-5.4.0/examples/activiti/activiti-camel/src/test/resources
+2015-05-10 20:48:08,979 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: org.apache.servicemix.examples:activiti-camel:5.4.0 @ /home/new482/apache-servicemix-5.4.0/examples/activiti/activiti-camel/pom.xml.
+2015-05-10 20:48:10,385 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 20:48:10,397 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-05-10 20:48:10,418 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 20:48:10,419 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/apache-servicemix-5.4.0/examples/activiti/activiti-camel/src/test/resources
+2015-05-10 20:50:02,457 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: restful_examples:sad_spring_maven_restful:0.0.1-SNAPSHOT @ /home/new482/workspace_sad/sad_spring_maven_restful/pom.xml.
+2015-05-10 20:50:03,234 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/log4j/log4j/1.2.17/log4j-1.2.17.jar
+2015-05-10 20:50:04,987 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/log4j/log4j/1.2.17/log4j-1.2.17.jar
+2015-05-10 20:50:06,305 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sad_spring_maven_restful/src/main/java
+2015-05-10 20:50:06,306 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sad_spring_maven_restful/src/test/java
+2015-05-10 20:50:06,821 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: restful_examples:sad_spring_maven_restful:0.0.1-SNAPSHOT @ /home/new482/workspace_sad/sad_spring_maven_restful/pom.xml.
+2015-05-10 20:51:15,450 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 74 sec
+2015-05-10 20:51:16,423 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: restful_examples:sad_spring_rest_consumer:0.0.1-SNAPSHOT @ /home/new482/workspace_sad/sad_rest_consumer/pom.xml.
+2015-05-10 20:51:16,960 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.5.3/jackson-databind-2.5.3.pom
+2015-05-10 20:51:17,418 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.5.3/jackson-databind-2.5.3.pom
+2015-05-10 20:51:17,653 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.5.1/jackson-parent-2.5.1.pom
+2015-05-10 20:51:18,328 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.5.1/jackson-parent-2.5.1.pom
+2015-05-10 20:51:18,558 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/19/oss-parent-19.pom
+2015-05-10 20:51:19,232 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/19/oss-parent-19.pom
+2015-05-10 20:51:19,467 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.5.0/jackson-annotations-2.5.0.pom
+2015-05-10 20:51:19,918 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.5.0/jackson-annotations-2.5.0.pom
+2015-05-10 20:51:20,150 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.5/jackson-parent-2.5.pom
+2015-05-10 20:51:20,601 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.5/jackson-parent-2.5.pom
+2015-05-10 20:51:20,832 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/18/oss-parent-18.pom
+2015-05-10 20:51:21,506 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/18/oss-parent-18.pom
+2015-05-10 20:51:21,739 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.5.3/jackson-core-2.5.3.pom
+2015-05-10 20:51:22,190 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.5.3/jackson-core-2.5.3.pom
+2015-05-10 20:51:22,424 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/1.2.3.RELEASE/spring-boot-starter-web-1.2.3.RELEASE.pom
+2015-05-10 20:51:22,876 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/1.2.3.RELEASE/spring-boot-starter-web-1.2.3.RELEASE.pom
+2015-05-10 20:51:23,108 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starters/1.2.3.RELEASE/spring-boot-starters-1.2.3.RELEASE.pom
+2015-05-10 20:51:23,588 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starters/1.2.3.RELEASE/spring-boot-starters-1.2.3.RELEASE.pom
+2015-05-10 20:51:23,821 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-parent/1.2.3.RELEASE/spring-boot-parent-1.2.3.RELEASE.pom
+2015-05-10 20:51:24,494 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-parent/1.2.3.RELEASE/spring-boot-parent-1.2.3.RELEASE.pom
+2015-05-10 20:51:24,728 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/1.2.3.RELEASE/spring-boot-dependencies-1.2.3.RELEASE.pom
+2015-05-10 20:51:25,855 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/1.2.3.RELEASE/spring-boot-dependencies-1.2.3.RELEASE.pom
+2015-05-10 20:51:26,090 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/4.1.6.RELEASE/spring-framework-bom-4.1.6.RELEASE.pom
+2015-05-10 20:51:26,541 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/4.1.6.RELEASE/spring-framework-bom-4.1.6.RELEASE.pom
+2015-05-10 20:51:26,774 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/data/spring-data-releasetrain/Evans-SR2/spring-data-releasetrain-Evans-SR2.pom
+2015-05-10 20:51:27,225 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/data/spring-data-releasetrain/Evans-SR2/spring-data-releasetrain-Evans-SR2.pom
+2015-05-10 20:51:27,456 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/data/build/spring-data-build/1.5.2.RELEASE/spring-data-build-1.5.2.RELEASE.pom
+2015-05-10 20:51:27,907 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/data/build/spring-data-build/1.5.2.RELEASE/spring-data-build-1.5.2.RELEASE.pom
+2015-05-10 20:51:28,139 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-bom/4.1.2.RELEASE/spring-integration-bom-4.1.2.RELEASE.pom
+2015-05-10 20:51:28,590 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-bom/4.1.2.RELEASE/spring-integration-bom-4.1.2.RELEASE.pom
+2015-05-10 20:51:28,823 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/security/spring-security-bom/3.2.7.RELEASE/spring-security-bom-3.2.7.RELEASE.pom
+2015-05-10 20:51:29,274 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/security/spring-security-bom/3.2.7.RELEASE/spring-security-bom-3.2.7.RELEASE.pom
+2015-05-10 20:51:29,511 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/1.2.3.RELEASE/spring-boot-starter-1.2.3.RELEASE.pom
+2015-05-10 20:51:29,962 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/1.2.3.RELEASE/spring-boot-starter-1.2.3.RELEASE.pom
+2015-05-10 20:51:30,201 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/1.2.3.RELEASE/spring-boot-1.2.3.RELEASE.pom
+2015-05-10 20:51:30,653 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/1.2.3.RELEASE/spring-boot-1.2.3.RELEASE.pom
+2015-05-10 20:51:30,890 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-core/4.1.6.RELEASE/spring-core-4.1.6.RELEASE.pom
+2015-05-10 20:51:31,341 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-core/4.1.6.RELEASE/spring-core-4.1.6.RELEASE.pom
+2015-05-10 20:51:31,573 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-context/4.1.6.RELEASE/spring-context-4.1.6.RELEASE.pom
+2015-05-10 20:51:32,024 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-context/4.1.6.RELEASE/spring-context-4.1.6.RELEASE.pom
+2015-05-10 20:51:32,262 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.1.6.RELEASE/spring-aop-4.1.6.RELEASE.pom
+2015-05-10 20:51:32,714 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.1.6.RELEASE/spring-aop-4.1.6.RELEASE.pom
+2015-05-10 20:51:32,947 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.1.6.RELEASE/spring-beans-4.1.6.RELEASE.pom
+2015-05-10 20:51:33,398 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.1.6.RELEASE/spring-beans-4.1.6.RELEASE.pom
+2015-05-10 20:51:33,631 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.1.6.RELEASE/spring-expression-4.1.6.RELEASE.pom
+2015-05-10 20:51:34,083 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.1.6.RELEASE/spring-expression-4.1.6.RELEASE.pom
+2015-05-10 20:51:34,320 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/1.2.3.RELEASE/spring-boot-autoconfigure-1.2.3.RELEASE.pom
+2015-05-10 20:51:34,996 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/1.2.3.RELEASE/spring-boot-autoconfigure-1.2.3.RELEASE.pom
+2015-05-10 20:51:35,255 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/1.2.3.RELEASE/spring-boot-starter-logging-1.2.3.RELEASE.pom
+2015-05-10 20:51:35,706 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/1.2.3.RELEASE/spring-boot-starter-logging-1.2.3.RELEASE.pom
+2015-05-10 20:51:35,941 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.7.11/jcl-over-slf4j-1.7.11.pom
+2015-05-10 20:51:36,390 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.7.11/jcl-over-slf4j-1.7.11.pom
+2015-05-10 20:51:36,620 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.11/slf4j-parent-1.7.11.pom
+2015-05-10 20:51:37,295 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.11/slf4j-parent-1.7.11.pom
+2015-05-10 20:51:37,528 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.11/slf4j-api-1.7.11.pom
+2015-05-10 20:51:38,003 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.11/slf4j-api-1.7.11.pom
+2015-05-10 20:51:38,235 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/jul-to-slf4j/1.7.11/jul-to-slf4j-1.7.11.pom
+2015-05-10 20:51:38,687 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/jul-to-slf4j/1.7.11/jul-to-slf4j-1.7.11.pom
+2015-05-10 20:51:38,918 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/log4j-over-slf4j/1.7.11/log4j-over-slf4j-1.7.11.pom
+2015-05-10 20:51:39,369 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/log4j-over-slf4j/1.7.11/log4j-over-slf4j-1.7.11.pom
+2015-05-10 20:51:39,601 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.1.3/logback-classic-1.1.3.pom
+2015-05-10 20:51:40,276 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.1.3/logback-classic-1.1.3.pom
+2015-05-10 20:51:40,509 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/ch/qos/logback/logback-parent/1.1.3/logback-parent-1.1.3.pom
+2015-05-10 20:51:41,184 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/ch/qos/logback/logback-parent/1.1.3/logback-parent-1.1.3.pom
+2015-05-10 20:51:41,416 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/ch/qos/logback/logback-core/1.1.3/logback-core-1.1.3.pom
+2015-05-10 20:51:41,869 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/ch/qos/logback/logback-core/1.1.3/logback-core-1.1.3.pom
+2015-05-10 20:51:42,101 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.pom
+2015-05-10 20:51:42,553 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.pom
+2015-05-10 20:51:42,782 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.7/slf4j-parent-1.7.7.pom
+2015-05-10 20:51:43,455 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.7/slf4j-parent-1.7.7.pom
+2015-05-10 20:51:43,688 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/1.2.3.RELEASE/spring-boot-starter-tomcat-1.2.3.RELEASE.pom
+2015-05-10 20:51:44,139 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/1.2.3.RELEASE/spring-boot-starter-tomcat-1.2.3.RELEASE.pom
+2015-05-10 20:51:44,372 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/8.0.20/tomcat-embed-core-8.0.20.pom
+2015-05-10 20:51:44,823 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/8.0.20/tomcat-embed-core-8.0.20.pom
+2015-05-10 20:51:45,055 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-el/8.0.20/tomcat-embed-el-8.0.20.pom
+2015-05-10 20:51:45,507 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-el/8.0.20/tomcat-embed-el-8.0.20.pom
+2015-05-10 20:51:45,737 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-logging-juli/8.0.20/tomcat-embed-logging-juli-8.0.20.pom
+2015-05-10 20:51:46,189 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-logging-juli/8.0.20/tomcat-embed-logging-juli-8.0.20.pom
+2015-05-10 20:51:46,422 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/8.0.20/tomcat-embed-websocket-8.0.20.pom
+2015-05-10 20:51:46,873 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/8.0.20/tomcat-embed-websocket-8.0.20.pom
+2015-05-10 20:51:47,104 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.4.5/jackson-databind-2.4.5.pom
+2015-05-10 20:51:47,555 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.4.5/jackson-databind-2.4.5.pom
+2015-05-10 20:51:47,789 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.4.5/jackson-core-2.4.5.pom
+2015-05-10 20:51:48,241 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.4.5/jackson-core-2.4.5.pom
+2015-05-10 20:51:48,473 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator/5.1.3.Final/hibernate-validator-5.1.3.Final.pom
+2015-05-10 20:51:49,148 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator/5.1.3.Final/hibernate-validator-5.1.3.Final.pom
+2015-05-10 20:51:49,380 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator-parent/5.1.3.Final/hibernate-validator-parent-5.1.3.Final.pom
+2015-05-10 20:51:50,056 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator-parent/5.1.3.Final/hibernate-validator-parent-5.1.3.Final.pom
+2015-05-10 20:51:50,289 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jboss/arquillian/arquillian-bom/1.0.2.Final/arquillian-bom-1.0.2.Final.pom
+2015-05-10 20:51:50,742 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/arquillian/arquillian-bom/1.0.2.Final/arquillian-bom-1.0.2.Final.pom
+2015-05-10 20:51:50,975 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/shrinkwrap-bom/1.0.1/shrinkwrap-bom-1.0.1.pom
+2015-05-10 20:51:51,427 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/shrinkwrap-bom/1.0.1/shrinkwrap-bom-1.0.1.pom
+2015-05-10 20:51:51,660 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/1.0.0-beta-7/shrinkwrap-resolver-bom-1.0.0-beta-7.pom
+2015-05-10 20:51:52,112 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/1.0.0-beta-7/shrinkwrap-resolver-bom-1.0.0-beta-7.pom
+2015-05-10 20:51:52,343 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0-alpha-3/shrinkwrap-descriptors-bom-2.0.0-alpha-3.pom
+2015-05-10 20:51:52,794 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0-alpha-3/shrinkwrap-descriptors-bom-2.0.0-alpha-3.pom
+2015-05-10 20:51:53,027 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.pom
+2015-05-10 20:51:53,479 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.pom
+2015-05-10 20:51:53,714 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.0.0/classmate-1.0.0.pom
+2015-05-10 20:51:54,167 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.0.0/classmate-1.0.0.pom
+2015-05-10 20:51:54,399 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-web/4.1.6.RELEASE/spring-web-4.1.6.RELEASE.pom
+2015-05-10 20:51:54,854 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-web/4.1.6.RELEASE/spring-web-4.1.6.RELEASE.pom
+2015-05-10 20:51:55,091 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/4.1.6.RELEASE/spring-webmvc-4.1.6.RELEASE.pom
+2015-05-10 20:51:55,766 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/4.1.6.RELEASE/spring-webmvc-4.1.6.RELEASE.pom
+2015-05-10 20:51:56,014 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.5.3/jackson-databind-2.5.3.jar
+2015-05-10 20:51:58,489 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.5.3/jackson-databind-2.5.3.jar
+2015-05-10 20:51:58,717 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.5.0/jackson-annotations-2.5.0.jar
+2015-05-10 20:51:59,168 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.5.0/jackson-annotations-2.5.0.jar
+2015-05-10 20:51:59,396 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.5.3/jackson-core-2.5.3.jar
+2015-05-10 20:52:00,079 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.5.3/jackson-core-2.5.3.jar
+2015-05-10 20:52:00,305 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/1.2.3.RELEASE/spring-boot-starter-web-1.2.3.RELEASE.jar
+2015-05-10 20:52:00,756 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/1.2.3.RELEASE/spring-boot-starter-web-1.2.3.RELEASE.jar
+2015-05-10 20:52:00,981 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/1.2.3.RELEASE/spring-boot-starter-1.2.3.RELEASE.jar
+2015-05-10 20:52:01,433 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/1.2.3.RELEASE/spring-boot-starter-1.2.3.RELEASE.jar
+2015-05-10 20:52:01,660 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/1.2.3.RELEASE/spring-boot-1.2.3.RELEASE.jar
+2015-05-10 20:52:03,554 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/1.2.3.RELEASE/spring-boot-1.2.3.RELEASE.jar
+2015-05-10 20:52:03,783 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/1.2.3.RELEASE/spring-boot-autoconfigure-1.2.3.RELEASE.jar
+2015-05-10 20:52:04,704 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/1.2.3.RELEASE/spring-boot-autoconfigure-1.2.3.RELEASE.jar
+2015-05-10 20:52:04,928 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/1.2.3.RELEASE/spring-boot-starter-logging-1.2.3.RELEASE.jar
+2015-05-10 20:52:05,379 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/1.2.3.RELEASE/spring-boot-starter-logging-1.2.3.RELEASE.jar
+2015-05-10 20:52:05,605 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.7.11/jcl-over-slf4j-1.7.11.jar
+2015-05-10 20:52:06,056 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.7.11/jcl-over-slf4j-1.7.11.jar
+2015-05-10 20:52:06,282 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.11/slf4j-api-1.7.11.jar
+2015-05-10 20:52:06,736 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.11/slf4j-api-1.7.11.jar
+2015-05-10 20:52:06,961 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/jul-to-slf4j/1.7.11/jul-to-slf4j-1.7.11.jar
+2015-05-10 20:52:07,413 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/jul-to-slf4j/1.7.11/jul-to-slf4j-1.7.11.jar
+2015-05-10 20:52:07,639 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/log4j-over-slf4j/1.7.11/log4j-over-slf4j-1.7.11.jar
+2015-05-10 20:52:08,536 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/log4j-over-slf4j/1.7.11/log4j-over-slf4j-1.7.11.jar
+2015-05-10 20:52:08,762 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.1.3/logback-classic-1.1.3.jar
+2015-05-10 20:52:10,558 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.1.3/logback-classic-1.1.3.jar
+2015-05-10 20:52:10,787 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/ch/qos/logback/logback-core/1.1.3/logback-core-1.1.3.jar
+2015-05-10 20:52:11,697 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/ch/qos/logback/logback-core/1.1.3/logback-core-1.1.3.jar
+2015-05-10 20:52:11,922 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/1.2.3.RELEASE/spring-boot-starter-tomcat-1.2.3.RELEASE.jar
+2015-05-10 20:52:12,373 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/1.2.3.RELEASE/spring-boot-starter-tomcat-1.2.3.RELEASE.jar
+2015-05-10 20:52:12,611 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/8.0.20/tomcat-embed-core-8.0.20.jar
+2015-05-10 20:52:15,559 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/8.0.20/tomcat-embed-core-8.0.20.jar
+2015-05-10 20:52:15,785 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-el/8.0.20/tomcat-embed-el-8.0.20.jar
+2015-05-10 20:52:17,581 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-el/8.0.20/tomcat-embed-el-8.0.20.jar
+2015-05-10 20:52:17,807 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-logging-juli/8.0.20/tomcat-embed-logging-juli-8.0.20.jar
+2015-05-10 20:52:18,931 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-logging-juli/8.0.20/tomcat-embed-logging-juli-8.0.20.jar
+2015-05-10 20:52:19,158 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/8.0.20/tomcat-embed-websocket-8.0.20.jar
+2015-05-10 20:52:20,503 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/8.0.20/tomcat-embed-websocket-8.0.20.jar
+2015-05-10 20:52:20,731 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator/5.1.3.Final/hibernate-validator-5.1.3.Final.jar
+2015-05-10 20:52:22,977 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator/5.1.3.Final/hibernate-validator-5.1.3.Final.jar
+2015-05-10 20:52:23,203 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar
+2015-05-10 20:52:23,682 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar
+2015-05-10 20:52:23,906 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.0.0/classmate-1.0.0.jar
+2015-05-10 20:52:25,028 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.0.0/classmate-1.0.0.jar
+2015-05-10 20:52:25,258 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-core/4.1.6.RELEASE/spring-core-4.1.6.RELEASE.jar
+2015-05-10 20:52:27,287 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-core/4.1.6.RELEASE/spring-core-4.1.6.RELEASE.jar
+2015-05-10 20:52:27,516 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/4.1.6.RELEASE/spring-webmvc-4.1.6.RELEASE.jar
+2015-05-10 20:52:28,445 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/4.1.6.RELEASE/spring-webmvc-4.1.6.RELEASE.jar
+2015-05-10 20:52:28,671 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.1.6.RELEASE/spring-expression-4.1.6.RELEASE.jar
+2015-05-10 20:52:30,468 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.1.6.RELEASE/spring-expression-4.1.6.RELEASE.jar
+2015-05-10 20:52:30,697 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-web/4.1.6.RELEASE/spring-web-4.1.6.RELEASE.jar
+2015-05-10 20:52:32,947 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-web/4.1.6.RELEASE/spring-web-4.1.6.RELEASE.jar
+2015-05-10 20:52:33,175 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.1.6.RELEASE/spring-aop-4.1.6.RELEASE.jar
+2015-05-10 20:52:34,304 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.1.6.RELEASE/spring-aop-4.1.6.RELEASE.jar
+2015-05-10 20:52:34,533 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.1.6.RELEASE/spring-beans-4.1.6.RELEASE.jar
+2015-05-10 20:52:36,429 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.1.6.RELEASE/spring-beans-4.1.6.RELEASE.jar
+2015-05-10 20:52:36,669 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-context/4.1.6.RELEASE/spring-context-4.1.6.RELEASE.jar
+2015-05-10 20:52:38,277 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-context/4.1.6.RELEASE/spring-context-4.1.6.RELEASE.jar
+2015-05-10 20:52:38,690 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+2015-05-10 20:52:38,849 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: org.apache.servicemix.examples:activiti-camel:5.4.0 @ /home/new482/apache-servicemix-5.4.0/examples/activiti/activiti-camel/pom.xml.
+2015-05-10 20:52:39,117 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: restful_examples:sad_spring_maven_restful:0.0.1-SNAPSHOT @ /home/new482/workspace_sad/sad_spring_maven_restful/pom.xml.
+2015-05-10 20:52:39,470 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sad_rest_consumer/src/main/java
+2015-05-10 20:52:39,471 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sad_rest_consumer/src/test/java
+2015-05-10 20:52:39,527 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 83 sec
+2015-05-10 20:52:39,756 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: restful_examples:sad_spring_rest_consumer:0.0.1-SNAPSHOT @ /home/new482/workspace_sad/sad_rest_consumer/pom.xml.
+2015-05-10 20:52:40,376 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 20:52:40,394 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-10 20:52:40,395 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 20:52:40,396 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/apache-servicemix-5.4.0/examples/activiti/activiti-camel/src/test/resources
+2015-05-10 20:52:40,949 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 20:52:40,950 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad_rest_consumer/src/main/resources
+2015-05-10 20:52:40,961 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 20:52:40,961 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad_rest_consumer/src/test/resources
+2015-05-10 20:52:42,096 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 20:52:42,101 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad_spring_maven_restful/src/main/resources
+2015-05-10 20:52:42,103 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 20:52:42,104 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad_spring_maven_restful/src/test/resources
+2015-05-10 20:52:44,251 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 20:52:44,251 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad_rest_consumer/src/main/resources
+2015-05-10 20:52:44,252 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 20:52:44,253 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad_rest_consumer/src/test/resources
+2015-05-10 21:14:52,473 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/new482/workspace_sad/sad_spring_maven_restful
+2015-05-10 21:14:52,474 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-05-10 21:14:54,726 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 21:14:54,727 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad_spring_maven_restful/src/main/resources
+2015-05-10 21:14:54,731 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 21:14:54,731 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad_spring_maven_restful/src/test/resources
+2015-05-10 21:15:03,137 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/new482/workspace_sad/sad_spring_maven_restful
+2015-05-10 21:15:03,137 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-05-10 21:15:20,377 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 21:15:20,378 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad_spring_maven_restful/src/main/resources
+2015-05-10 21:15:20,379 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 21:15:20,379 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad_spring_maven_restful/src/test/resources
+2015-05-10 21:15:38,917 [Worker-14] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/new482/workspace_sad/sad_rest_consumer
+2015-05-10 21:15:38,917 [Worker-14] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-05-10 21:15:41,018 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 21:15:41,018 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad_rest_consumer/src/main/resources
+2015-05-10 21:15:41,020 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 21:15:41,020 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad_rest_consumer/src/test/resources
+2015-05-10 21:15:45,423 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/new482/workspace_sad/sad_rest_consumer
+2015-05-10 21:15:45,423 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-05-10 21:15:50,665 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 21:15:50,666 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad_rest_consumer/src/main/resources
+2015-05-10 21:15:50,667 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 21:15:50,668 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad_rest_consumer/src/test/resources
+2015-05-10 21:21:43,307 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 21:21:43,322 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-05-10 21:21:43,339 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 21:21:43,339 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/apache-servicemix-5.4.0/examples/activiti/activiti-camel/src/test/resources
+2015-05-10 21:21:44,281 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 21:21:44,282 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad_rest_consumer/src/main/resources
+2015-05-10 21:21:44,287 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 21:21:44,287 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad_rest_consumer/src/test/resources
+2015-05-10 21:21:46,433 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 21:21:46,434 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad_spring_maven_restful/src/main/resources
+2015-05-10 21:21:46,436 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 21:21:46,436 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad_spring_maven_restful/src/test/resources
+2015-05-10 21:32:43,179 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 21:32:43,180 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad_spring_maven_restful/src/main/resources
+2015-05-10 21:32:43,181 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 21:32:43,181 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad_spring_maven_restful/src/test/resources
+2015-05-10 21:41:00,386 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 21:41:00,392 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad_spring_maven_restful/src/main/resources
+2015-05-10 21:41:00,394 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 21:41:00,394 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad_spring_maven_restful/src/test/resources
+2015-05-10 23:04:44,651 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: org.apache.servicemix.examples:activiti-camel:5.4.0 @ /home/new482/workspace_sad/sad2015/activiti-camel/pom.xml.
+2015-05-10 23:04:46,010 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/h2database/h2/1.3.176/h2-1.3.176.pom
+2015-05-10 23:04:46,473 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/h2database/h2/1.3.176/h2-1.3.176.pom
+2015-05-10 23:04:46,707 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/slf4j-log4j12/1.7.7/slf4j-log4j12-1.7.7.pom
+2015-05-10 23:04:47,160 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/slf4j-log4j12/1.7.7/slf4j-log4j12-1.7.7.pom
+2015-05-10 23:04:47,423 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/h2database/h2/1.3.176/h2-1.3.176.jar
+2015-05-10 23:04:50,411 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/h2database/h2/1.3.176/h2-1.3.176.jar
+2015-05-10 23:04:50,637 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/slf4j-log4j12/1.7.7/slf4j-log4j12-1.7.7.jar
+2015-05-10 23:04:51,092 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/slf4j-log4j12/1.7.7/slf4j-log4j12-1.7.7.jar
+2015-05-10 23:04:51,187 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+2015-05-10 23:04:51,397 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /activiti-camel/src/main/java
+2015-05-10 23:04:51,397 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /activiti-camel/src/main/resources
+2015-05-10 23:04:51,398 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /activiti-camel/src/test/java
+2015-05-10 23:04:51,517 [Worker-26] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 8 sec
+2015-05-10 23:04:52,754 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: org.apache.servicemix.examples:activiti-camel:5.4.0 @ /home/new482/workspace_sad/sad2015/activiti-camel/pom.xml.
+2015-05-10 23:04:52,784 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:04:52,785 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-05-10 23:04:52,818 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:04:52,818 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:04:55,452 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:04:55,455 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-10 23:04:55,457 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:04:55,459 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:06:34,234 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:06:34,240 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-05-10 23:06:34,242 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:06:34,242 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:11:00,370 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: org.apache.servicemix.examples:activiti-camel:5.4.0 @ /home/new482/workspace_sad/sad2015/activiti-camel/pom.xml.
+2015-05-10 23:11:00,936 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:11:00,940 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-05-10 23:11:00,947 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:11:00,947 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:14:23,289 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:14:23,309 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-05-10 23:14:23,312 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:14:23,313 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:14:49,765 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:14:49,766 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-05-10 23:14:49,767 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:14:49,767 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:15:58,455 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:15:58,456 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-05-10 23:15:58,457 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:15:58,457 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:16:10,639 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:16:10,641 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-05-10 23:16:10,644 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:16:10,644 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:16:27,102 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:16:27,103 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-05-10 23:16:27,105 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:16:27,106 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:17:04,556 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:17:04,557 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-05-10 23:17:04,559 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:17:04,560 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:17:06,055 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:17:06,056 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-05-10 23:17:06,060 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:17:06,060 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:18:16,901 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:18:16,902 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-05-10 23:18:16,905 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:18:16,905 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:18:34,780 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:18:34,780 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-05-10 23:18:34,782 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:18:34,782 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:18:40,759 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:18:40,759 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-05-10 23:18:40,760 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:18:40,761 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:18:51,742 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:18:51,744 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-05-10 23:18:51,747 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:18:51,747 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:19:01,636 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:19:01,637 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-05-10 23:19:01,640 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:19:01,641 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:24:54,507 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:24:54,508 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-05-10 23:24:54,511 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:24:54,512 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:25:36,513 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:25:36,515 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-05-10 23:25:36,517 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:25:36,517 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:25:56,851 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:25:56,851 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-05-10 23:25:56,853 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:25:56,853 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:28:55,113 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: org.apache.servicemix.examples:activiti-camel:5.4.0 @ /home/new482/workspace_sad/sad2015/activiti-camel/pom.xml.
+2015-05-10 23:28:55,840 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/cz/jirutka/spring/spring-http-client-cache/1.0.0.M1/spring-http-client-cache-1.0.0.M1.pom
+2015-05-10 23:28:56,451 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/cz/jirutka/spring/spring-http-client-cache/1.0.0.M1/spring-http-client-cache-1.0.0.M1.pom
+2015-05-10 23:28:56,795 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/cz/jirutka/maven/groovy-lombok-parent/1.1.1/groovy-lombok-parent-1.1.1.pom
+2015-05-10 23:28:57,427 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/cz/jirutka/maven/groovy-lombok-parent/1.1.1/groovy-lombok-parent-1.1.1.pom
+2015-05-10 23:28:57,762 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/cz/jirutka/maven/groovy-parent/1.1.1/groovy-parent-1.1.1.pom
+2015-05-10 23:28:58,386 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/cz/jirutka/maven/groovy-parent/1.1.1/groovy-parent-1.1.1.pom
+2015-05-10 23:28:58,687 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/cz/jirutka/maven/root-parent/1.1.1/root-parent-1.1.1.pom
+2015-05-10 23:28:59,548 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/cz/jirutka/maven/root-parent/1.1.1/root-parent-1.1.1.pom
+2015-05-10 23:28:59,792 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/net/jcip/jcip-annotations/1.0/jcip-annotations-1.0.pom
+2015-05-10 23:29:00,292 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/net/jcip/jcip-annotations/1.0/jcip-annotations-1.0.pom
+2015-05-10 23:29:00,787 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/cz/jirutka/spring/spring-http-client-cache/1.0.0.M1/spring-http-client-cache-1.0.0.M1.jar
+2015-05-10 23:29:01,860 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/cz/jirutka/spring/spring-http-client-cache/1.0.0.M1/spring-http-client-cache-1.0.0.M1.jar
+2015-05-10 23:29:02,085 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/net/jcip/jcip-annotations/1.0/jcip-annotations-1.0.jar
+2015-05-10 23:29:02,536 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/net/jcip/jcip-annotations/1.0/jcip-annotations-1.0.jar
+2015-05-10 23:29:02,633 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:29:02,633 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-10 23:29:02,634 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:29:02,635 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:29:04,106 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:29:04,107 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-05-10 23:29:04,115 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:29:04,115 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:32:07,348 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: org.apache.servicemix.examples:activiti-camel:5.4.0 @ /home/new482/workspace_sad/sad2015/activiti-camel/pom.xml.
+2015-05-10 23:32:08,182 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-web/3.2.11.RELEASE/spring-web-3.2.11.RELEASE.pom
+2015-05-10 23:32:08,640 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-web/3.2.11.RELEASE/spring-web-3.2.11.RELEASE.pom
+2015-05-10 23:32:09,259 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: restful_examples:sad_spring_maven_restful:0.0.1-SNAPSHOT @ /home/new482/workspace_sad/sad_spring_maven_restful/pom.xml.
+2015-05-10 23:32:09,441 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: restful_examples:sad_spring_rest_consumer:0.0.1-SNAPSHOT @ /home/new482/workspace_sad/sad_rest_consumer/pom.xml.
+2015-05-10 23:32:11,154 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:32:11,155 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-10 23:32:11,156 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:32:11,156 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:32:11,284 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 23:32:11,288 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad_rest_consumer/src/main/resources
+2015-05-10 23:32:11,289 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 23:32:11,290 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad_rest_consumer/src/test/resources
+2015-05-10 23:32:11,389 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 23:32:11,389 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad_spring_maven_restful/src/main/resources
+2015-05-10 23:32:11,391 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-10 23:32:11,391 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad_spring_maven_restful/src/test/resources
+2015-05-10 23:32:13,017 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:32:13,017 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-05-10 23:32:13,019 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:32:13,019 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:32:36,921 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:32:36,921 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-05-10 23:32:36,922 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:32:36,922 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:32:48,529 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:32:48,531 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-05-10 23:32:48,534 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:32:48,534 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:33:21,106 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:33:21,107 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-05-10 23:33:21,108 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:33:21,109 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:34:02,921 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:34:02,922 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-05-10 23:34:02,924 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:34:02,925 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:34:07,284 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:34:07,285 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-05-10 23:34:07,286 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:34:07,287 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:35:23,276 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:35:23,277 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-05-10 23:35:23,280 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:35:23,280 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:35:26,526 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:35:26,527 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-05-10 23:35:26,534 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:35:26,534 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:35:50,449 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:35:50,450 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-05-10 23:35:50,454 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:35:50,454 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:36:07,834 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:36:07,835 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-05-10 23:36:07,837 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:36:07,837 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:36:16,226 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:36:16,227 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-05-10 23:36:16,229 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:36:16,229 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:37:12,121 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:37:12,122 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-05-10 23:37:12,124 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:37:12,124 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:37:24,460 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:37:24,460 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-05-10 23:37:24,462 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:37:24,462 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:37:56,181 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:37:56,181 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-05-10 23:37:56,183 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:37:56,184 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:38:07,655 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:38:07,655 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-05-10 23:38:07,657 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:38:07,657 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:38:12,778 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:38:12,779 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-05-10 23:38:12,782 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:38:12,782 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:38:55,195 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:38:55,197 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-05-10 23:38:55,199 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:38:55,199 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:39:03,016 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:39:03,016 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-05-10 23:39:03,018 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:39:03,018 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:39:38,899 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:39:38,900 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-05-10 23:39:38,902 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:39:38,902 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:40:04,810 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:40:04,812 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-05-10 23:40:04,814 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:40:04,815 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:40:42,687 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:40:42,687 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-05-10 23:40:42,688 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:40:42,689 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:41:03,435 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:41:03,436 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-05-10 23:41:03,439 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:41:03,439 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:41:57,284 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:41:57,285 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-05-10 23:41:57,288 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:41:57,289 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:43:41,632 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:43:41,632 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-05-10 23:43:41,636 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:43:41,637 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:43:50,415 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:43:50,415 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-05-10 23:43:50,417 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:43:50,417 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:44:27,560 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:44:27,561 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-05-10 23:44:27,563 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:44:27,564 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:44:51,007 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:44:51,008 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-05-10 23:44:51,010 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:44:51,011 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:45:09,889 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:45:09,890 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-05-10 23:45:09,891 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:45:09,891 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:45:41,490 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:45:41,490 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-05-10 23:45:41,492 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:45:41,492 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:45:45,409 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:45:45,410 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-05-10 23:45:45,411 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:45:45,411 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:46:01,332 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:46:01,332 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-05-10 23:46:01,334 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:46:01,335 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:46:13,632 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:46:13,633 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-05-10 23:46:13,636 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:46:13,637 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:46:33,541 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:46:33,541 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-05-10 23:46:33,545 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:46:33,545 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:53:22,487 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:53:22,492 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-05-10 23:53:22,493 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:53:22,494 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:53:31,845 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:53:31,846 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-05-10 23:53:31,847 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:53:31,848 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:54:07,019 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:54:07,020 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-05-10 23:54:07,021 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:54:07,021 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:54:12,612 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:54:12,613 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-05-10 23:54:12,617 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:54:12,618 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:55:32,097 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:55:32,100 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-05-10 23:55:32,103 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:55:32,103 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:55:34,418 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:55:34,419 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-05-10 23:55:34,420 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:55:34,420 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-10 23:56:29,506 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:56:29,506 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-10 23:56:29,507 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-10 23:56:29,507 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-11 00:14:00,190 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/new482/workspace_sad/sad2015/activiti-camel
+2015-05-11 00:14:00,191 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-05-11 00:14:09,582 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 00:14:09,584 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-05-11 00:14:09,586 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 00:14:09,586 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-11 00:20:21,356 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: org.apache.servicemix.examples:activiti-camel:5.4.0 @ /home/new482/workspace_sad/sad2015/activiti-camel/pom.xml.
+2015-05-11 00:20:21,931 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/itextpdf/itextpdf/5.0.6/itextpdf-5.0.6.pom
+2015-05-11 00:20:22,363 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/itextpdf/itextpdf/5.0.6/itextpdf-5.0.6.pom
+2015-05-11 00:20:22,587 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/bouncycastle/bcmail-jdk14/1.38/bcmail-jdk14-1.38.pom
+2015-05-11 00:20:23,021 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/bouncycastle/bcmail-jdk14/1.38/bcmail-jdk14-1.38.pom
+2015-05-11 00:20:23,244 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/bouncycastle/bcprov-jdk14/1.38/bcprov-jdk14-1.38.pom
+2015-05-11 00:20:23,678 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/bouncycastle/bcprov-jdk14/1.38/bcprov-jdk14-1.38.pom
+2015-05-11 00:20:23,903 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/bouncycastle/bctsp-jdk14/1.38/bctsp-jdk14-1.38.pom
+2015-05-11 00:20:24,336 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/bouncycastle/bctsp-jdk14/1.38/bctsp-jdk14-1.38.pom
+2015-05-11 00:20:24,915 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/itextpdf/itextpdf/5.0.6/itextpdf-5.0.6.jar
+2015-05-11 00:20:27,734 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/itextpdf/itextpdf/5.0.6/itextpdf-5.0.6.jar
+2015-05-11 00:20:27,950 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/bouncycastle/bcmail-jdk14/1.38/bcmail-jdk14-1.38.jar
+2015-05-11 00:20:29,037 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/bouncycastle/bcmail-jdk14/1.38/bcmail-jdk14-1.38.jar
+2015-05-11 00:20:29,263 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/bouncycastle/bcprov-jdk14/1.38/bcprov-jdk14-1.38.jar
+2015-05-11 00:20:31,022 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/bouncycastle/bcprov-jdk14/1.38/bcprov-jdk14-1.38.jar
+2015-05-11 00:20:31,238 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/bouncycastle/bctsp-jdk14/1.38/bctsp-jdk14-1.38.jar
+2015-05-11 00:20:31,671 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/bouncycastle/bctsp-jdk14/1.38/bctsp-jdk14-1.38.jar
+2015-05-11 00:20:31,910 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 00:20:31,910 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-11 00:20:31,913 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 00:20:31,913 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-11 00:20:32,086 [Worker-26] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/new482/workspace_sad/sad2015/activiti-camel
+2015-05-11 00:20:32,086 [Worker-26] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-05-11 00:20:33,778 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 00:20:33,780 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-05-11 00:20:33,787 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 00:20:33,787 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-11 00:39:02,448 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 00:39:02,450 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-05-11 00:39:02,453 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 00:39:02,453 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-11 00:40:56,059 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 00:40:56,060 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-05-11 00:40:56,062 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 00:40:56,062 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-11 00:41:33,649 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 00:41:33,649 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-05-11 00:41:33,651 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 00:41:33,651 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-11 00:41:41,772 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 00:41:41,772 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-05-11 00:41:41,774 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 00:41:41,775 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-11 00:42:04,912 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 00:42:04,912 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-05-11 00:42:04,914 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 00:42:04,914 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-11 00:42:24,185 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 00:42:24,186 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-05-11 00:42:24,187 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 00:42:24,188 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-11 00:44:27,155 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: org.apache.servicemix.examples:activiti-camel:5.4.0 @ /home/new482/workspace_sad/sad2015/activiti-camel/pom.xml.
+2015-05-11 00:44:27,801 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 00:44:27,802 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-05-11 00:44:27,804 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 00:44:27,804 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-11 00:44:40,718 [Worker-38] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/new482/workspace_sad/sad2015/activiti-camel
+2015-05-11 00:44:40,718 [Worker-38] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-05-11 00:45:13,108 [Worker-26] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/new482/workspace_sad/sad2015/activiti-camel
+2015-05-11 00:45:13,108 [Worker-26] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-05-11 00:45:52,796 [Worker-30] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/new482/workspace_sad/sad2015/activiti-camel
+2015-05-11 00:45:52,797 [Worker-30] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-05-11 03:10:53,337 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: org.apache.servicemix.examples:activiti-camel:5.4.0 @ /home/new482/workspace_sad/sad2015/activiti-camel/pom.xml.
+2015-05-11 03:10:54,460 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/itextpdf/itextpdf/5.5.6/itextpdf-5.5.6.pom
+2015-05-11 03:10:54,917 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/itextpdf/itextpdf/5.5.6/itextpdf-5.5.6.pom
+2015-05-11 03:10:55,149 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/itextpdf/itext-parent/1.0.0/itext-parent-1.0.0.pom
+2015-05-11 03:10:55,601 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/itextpdf/itext-parent/1.0.0/itext-parent-1.0.0.pom
+2015-05-11 03:10:56,394 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/itextpdf/itextpdf/5.5.6/itextpdf-5.5.6.jar
+2015-05-11 03:10:59,631 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/itextpdf/itextpdf/5.5.6/itextpdf-5.5.6.jar
+2015-05-11 03:10:59,942 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 03:10:59,946 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-05-11 03:10:59,954 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 03:10:59,954 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-11 03:54:39,651 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 03:54:39,666 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-05-11 03:54:39,677 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 03:54:39,677 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-11 03:54:41,595 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-11 03:54:41,611 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad_spring_maven_restful/src/main/resources
+2015-05-11 03:54:41,614 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-11 03:54:41,614 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad_spring_maven_restful/src/test/resources
+2015-05-11 03:54:43,853 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 03:54:43,861 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-11 03:54:43,863 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 03:54:43,864 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-11 03:58:16,192 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/new482/workspace_sad/sad2015/activiti-camel
+2015-05-11 03:58:16,193 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-05-11 04:01:41,066 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 04:01:41,067 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-11 04:01:41,069 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 04:01:41,069 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-11 04:01:44,983 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 04:01:44,984 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-11 04:01:44,986 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 04:01:44,986 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-11 04:01:59,828 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 04:01:59,828 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-11 04:01:59,832 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 04:01:59,832 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-11 04:02:27,246 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 04:02:27,246 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-11 04:02:27,247 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 04:02:27,247 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-11 04:04:16,917 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 04:04:16,917 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-11 04:04:16,919 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 04:04:16,919 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-11 04:04:54,599 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 04:04:54,599 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-11 04:04:54,603 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 04:04:54,603 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-11 04:23:54,190 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 04:23:54,193 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-11 04:23:54,195 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 04:23:54,197 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-11 04:28:12,153 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 04:28:12,154 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-11 04:28:12,156 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 04:28:12,157 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-11 04:30:10,158 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 04:30:10,165 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-11 04:30:10,167 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 04:30:10,168 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-11 04:30:46,094 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 04:30:46,094 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-11 04:30:46,097 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 04:30:46,097 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-11 04:31:05,231 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 04:31:05,232 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-11 04:31:05,236 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 04:31:05,237 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-11 04:31:29,042 [Worker-14] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/new482/workspace_sad/sad2015/activiti-camel
+2015-05-11 04:31:29,042 [Worker-14] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-05-11 04:34:42,824 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 04:34:42,826 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-11 04:34:42,830 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 04:34:42,842 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-11 04:35:19,749 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 04:35:19,749 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-11 04:35:19,750 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 04:35:19,751 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-11 04:36:04,631 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 04:36:04,631 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-11 04:36:04,635 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 04:36:04,635 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-11 04:36:15,836 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 04:36:15,836 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-11 04:36:15,838 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 04:36:15,838 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-11 04:36:25,458 [Worker-9] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/new482/workspace_sad/sad2015/activiti-camel
+2015-05-11 04:36:25,458 [Worker-9] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-05-11 04:45:58,059 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/new482/workspace_sad/sad2015/activiti-camel
+2015-05-11 04:45:58,061 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-05-11 04:46:11,178 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 04:46:11,206 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-05-11 04:46:11,209 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 04:46:11,209 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-11 04:52:41,733 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/new482/workspace_sad/sad2015/activiti-camel
+2015-05-11 04:52:41,733 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-05-11 04:52:52,576 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 04:52:52,580 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-05-11 04:52:52,584 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 04:52:52,584 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-11 05:01:35,978 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-11 05:01:35,986 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad_spring_maven_restful/src/main/resources
+2015-05-11 05:01:35,989 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-11 05:01:35,989 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad_spring_maven_restful/src/test/resources
+2015-05-11 05:06:16,039 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 05:06:16,074 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-05-11 05:06:16,091 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 05:06:16,091 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-11 06:34:45,649 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 06:34:45,657 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2015-05-11 06:34:45,666 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 06:34:45,666 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-11 06:34:48,563 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-11 06:34:48,590 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad_spring_maven_restful/src/main/resources
+2015-05-11 06:34:48,594 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-11 06:34:48,594 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad_spring_maven_restful/src/test/resources
+2015-05-11 06:35:17,311 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 06:35:17,318 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-11 06:35:17,320 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 06:35:17,320 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-11 06:35:22,418 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 06:35:22,419 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-11 06:35:22,421 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 06:35:22,421 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources
+2015-05-11 06:35:38,649 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 06:35:38,650 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-11 06:35:38,652 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-11 06:35:38,652 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/new482/workspace_sad/sad2015/activiti-camel/src/test/resources

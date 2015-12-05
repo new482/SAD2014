@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence-diagram version="1.1.8" icons="true" automaticImage="PNG">  
+  <object id="1" language="java" name="Test.TestTS" project="hw1" file="/hw1/src/Test/TestTS.java" binary="false" 
+    label="testTS" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="26" y="0"/>    
+    <execution id="2">      
+      <position height="105" width="71" x="5" y="99"/>    
+    </execution>    
+    <execution id="5">      
+      <position height="105" width="71" x="5" y="205"/>    
+    </execution>    
+    <execution id="8">      
+      <position height="127" width="71" x="5" y="312"/>    
+    </execution>  
+  </object>  
+  <object id="11" language="java" name="TS.TsRecognitionService" project="hw1" 
+    file="/hw1/src/TS/TsRecognitionService.java" binary="false" label="tsRecognitionService" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="319" y="0"/>    
+    <execution id="4">      
+      <position height="63" width="174" x="80" y="120"/>    
+    </execution>    
+    <execution id="7">      
+      <position height="63" width="174" x="80" y="226"/>    
+    </execution>    
+    <execution id="10">      
+      <position height="85" width="174" x="80" y="333"/>    
+    </execution>  
+  </object>  
+  <object id="20" language="java" name="TS.TsGateway" project="hw1" file="/hw1/src/TS/TsGateway.java" binary="false" 
+    label="tsGateway" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="551" y="0"/>    
+    <execution id="13">      
+      <position height="21" width="99" x="258" y="141"/>    
+    </execution>    
+    <execution id="15">      
+      <position height="21" width="99" x="258" y="247"/>    
+    </execution>    
+    <execution id="17">      
+      <position height="21" width="99" x="258" y="354"/>    
+    </execution>    
+    <execution id="19">      
+      <position height="21" width="99" x="258" y="376"/>    
+    </execution>  
+  </object>  
+  <message id="3" operation="addProduct(java.lang.String,java.lang.String):int">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="4"/>  
+  </message>  
+  <message id="6" operation="addContract(long,long):int">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="7"/>  
+  </message>  
+  <message id="9" operation="calculateRevenueRecognitions(long):boolean">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="10"/>  
+  </message>  
+  <message id="12" operation="insertProduct(java.lang.String,java.lang.String):int">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="13"/>  
+  </message>  
+  <message id="14" operation="insertContract(long,Given.Money,Given.MfDate):int">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="15"/>  
+  </message>  
+  <message id="16" operation="findContract(long):java.sql.ResultSet">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="17"/>  
+  </message>  
+  <message id="18" operation="insertRecognition(long,Given.Money,Given.MfDate):void">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="19"/>  
+  </message>
+</sequence-diagram>

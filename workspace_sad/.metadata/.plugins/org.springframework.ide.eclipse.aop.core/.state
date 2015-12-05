@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="sad_rest_consumer"/>
+<aop-project name="activiti-camel"/>
+<aop-project name="sad_spring_maven_restful"/>
+</aop-reference-model>

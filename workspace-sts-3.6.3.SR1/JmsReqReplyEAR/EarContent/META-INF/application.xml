@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/application_6.xsd" id="Application_ID" version="6">
+  <display-name>JmsReqReplyEAR</display-name>
+  <module>
+    <connector>geronimo-activemq-ra-3.0.1.rar</connector>
+  </module>
+  <module>
+    <ejb>JmsReqReplyEJB.jar</ejb>
+  </module>
+</application>

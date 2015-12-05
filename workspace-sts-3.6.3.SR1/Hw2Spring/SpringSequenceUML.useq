@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence-diagram version="1.1.8" icons="true" automaticImage="PNG">  
+  <object id="1" language="java" name="com.hw2.spring.PersistenceTests" project="Hw2Spring" 
+    file="/Hw2Spring/src/test/java/com/hw2/spring/PersistenceTests.java" binary="false" label="persistenceTests" 
+    type="class" autoSize="true">    
+    <position height="-1" width="-1" x="131" y="0"/>    
+    <execution id="2">      
+      <position height="594" width="123" x="5" y="91"/>    
+    </execution>    
+    <execution id="4">      
+      <position height="537" width="123" x="5" y="129"/>    
+    </execution>    
+    <execution id="10">      
+      <position height="172" width="7" x="63" y="475"/>    
+    </execution>  
+  </object>  
+  <object id="13" language="java" name="com.hw2.spring.service.ProductService" project="Hw2Spring" 
+    file="/Hw2Spring/src/main/java/com/hw2/spring/service/ProductService.java" binary="false" label="productService" 
+    type="interface" autoSize="true">    
+    <position height="-1" width="-1" x="195" y="0"/>    
+    <execution id="6">      
+      <position height="195" width="112" x="132" y="148"/>    
+    </execution>    
+    <execution id="8">      
+      <position height="142" width="7" x="185" y="302"/>    
+    </execution>  
+  </object>  
+  <object id="18" language="java" name="com.hw2.spring.service.ContractService" project="Hw2Spring" 
+    file="/Hw2Spring/src/main/java/com/hw2/spring/service/ContractService.java" binary="false" label="contractService" 
+    type="interface" autoSize="true">    
+    <position height="-1" width="-1" x="307" y="0"/>    
+    <execution id="12">      
+      <position height="134" width="117" x="248" y="494"/>    
+    </execution>  
+  </object>  
+  <object id="21" language="java" name="com.hw2.spring.service.ProductServiceImp" project="Hw2Spring" 
+    file="/Hw2Spring/src/main/java/com/hw2/spring/service/ProductServiceImp.java" binary="false" 
+    label="productServiceImp" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="381" y="0"/>    
+    <execution id="15">      
+      <position height="157" width="133" x="369" y="167"/>    
+    </execution>    
+    <execution id="17">      
+      <position height="104" width="7" x="432" y="321"/>    
+    </execution>    
+    <execution id="27">      
+      <position height="19" width="133" x="369" y="387"/>    
+    </execution>  
+  </object>  
+  <object id="28" language="java" name="com.hw2.spring.service.ContractServiceImp" project="Hw2Spring" 
+    file="/Hw2Spring/src/main/java/com/hw2/spring/service/ContractServiceImp.java" binary="false" 
+    label="contractServiceImp" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="440" y="0"/>    
+    <execution id="20">      
+      <position height="96" width="138" x="506" y="513"/>    
+    </execution>  
+  </object>  
+  <object id="33" language="java" name="com.hw2.spring.domain.Product" project="Hw2Spring" 
+    file="/Hw2Spring/src/main/java/com/hw2/spring/domain/Product.java" binary="false" label="product" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="664" y="0"/>    
+    <execution id="23">      
+      <position height="114" width="106" x="648" y="186"/>    
+    </execution>    
+    <execution id="35">      
+      <position height="57" width="106" x="648" y="224"/>    
+    </execution>    
+    <execution id="25">      
+      <position height="19" width="7" x="698" y="286"/>    
+    </execution>  
+  </object>  
+  <object id="38" language="java" name="com.hw2.spring.domain.RecognitionStrategy" project="Hw2Spring" 
+    file="/Hw2Spring/src/main/java/com/hw2/spring/domain/RecognitionStrategy.java" binary="false" 
+    label="recognitionStrategy" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="843" y="0"/>  
+  </object>  
+  <object id="39" language="java" name="com.hw2.spring.domain.CompleteRecognitionStrategy" project="Hw2Spring" 
+    file="/Hw2Spring/src/main/java/com/hw2/spring/domain/CompleteRecognitionStrategy.java" binary="false" 
+    label="completeRecognitionStrategy" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="904" y="0"/>    
+    <execution id="37">      
+      <position height="19" width="195" x="902" y="243"/>    
+    </execution>  
+  </object>  
+  <object id="40" language="java" name="com.hw2.spring.domain.ThreeWayRecognitionStrategy" project="Hw2Spring" 
+    file="/Hw2Spring/src/main/java/com/hw2/spring/domain/ThreeWayRecognitionStrategy.java" binary="false" 
+    label="threeWayRecognitionStrategy" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="906" y="0"/>  
+  </object>  
+  <object id="41" language="java" name="com.hw2.spring.domain.Contract" project="Hw2Spring" 
+    file="/Hw2Spring/src/main/java/com/hw2/spring/domain/Contract.java" binary="false" label="contract" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="764" y="0"/>    
+    <execution id="30">      
+      <position height="19" width="106" x="1303" y="532"/>    
+    </execution>    
+    <execution id="32">      
+      <position height="19" width="106" x="1303" y="571"/>    
+    </execution>  
+  </object>  
+  <object id="42" language="java" name="com.hw2.spring.domain.RevenueRecognition" project="Hw2Spring" 
+    file="/Hw2Spring/src/main/java/com/hw2/spring/domain/RevenueRecognition.java" binary="false" 
+    label="revenueRecognition" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="780" y="0"/>  
+  </object>  
+  <message id="3" operation="testCreateProduct():void">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="4"/>  
+  </message>  
+  <message id="5" operation="createNewProcessor(java.lang.String):long">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="6"/>  
+  </message>  
+  <message id="7" operation="findProduct(long):com.hw2.spring.domain.Product">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="8"/>  
+  </message>  
+  <message id="9" operation="testCreateContract():void">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="10"/>  
+  </message>  
+  <message id="11" operation="createContract(com.hw2.spring.domain.Product):long">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="12"/>  
+  </message>  
+  <message id="14" operation="createNewProcessor(java.lang.String):long">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="15"/>  
+  </message>  
+  <message id="16" operation="findProduct(long):com.hw2.spring.domain.Product">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="17"/>  
+  </message>  
+  <message id="19" operation="createContract(com.hw2.spring.domain.Product):long">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="20"/>  
+  </message>  
+  <message id="22" operation="newWordProcessor(java.lang.String):com.hw2.spring.domain.Product">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="23"/>  
+  </message>  
+  <message id="24" operation="getID():long">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="25"/>  
+  </message>  
+  <message id="26" operation="findProduct(long):com.hw2.spring.domain.Product">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="27"/>  
+  </message>  
+  <message id="29" 
+    operation="Contract(com.hw2.spring.domain.Product,com.hw2.spring.domain.base.Money,com.hw2.spring.domain.base.MfDate)">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="30"/>  
+  </message>  
+  <message id="31" operation="getID():long">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="32"/>  
+  </message>  
+  <message id="34" operation="Product(java.lang.String,com.hw2.spring.domain.RecognitionStrategy)">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="35"/>  
+  </message>  
+  <message id="36" operation="CompleteRecognitionStrategy()">    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="37"/>  
+  </message>
+</sequence-diagram>

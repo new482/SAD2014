@@ -1,0 +1,34 @@
+package asia.ait.sad.cameltest.test;
+
+import javax.xml.bind.JAXBContext;
+import javax.xml.bind.JAXBException;
+import javax.xml.bind.Marshaller;
+
+import org.junit.Test;
+
+import asia.ait.sad.cameltest.Person;
+
+public class Testjaxb {
+
+	@Test
+	public void test() throws JAXBException {
+		 Person person = new Person();
+		 
+		 person.setCity("Pathum");
+		 person.setCustomerNumber(1);
+		 person.setFirstName("Cop");
+		 person.setLastName("loftbas");
+		 person.setPhone("028881111");
+		 person.setPostalCode("10310");
+		 person.setProvince("Bangkok");
+		 person.setStreet("Ladprao");
+		 
+		 
+		 JAXBContext context = JAXBContext.newInstance(Person.class);
+		   Marshaller m = context.createMarshaller();
+		   m.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, true);
+
+		   m.marshal(person, System.out);
+	}
+	
+}

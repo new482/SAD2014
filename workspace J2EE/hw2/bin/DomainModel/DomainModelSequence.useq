@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence-diagram version="1.1.8" icons="true" automaticImage="GIF">  
+  <object id="1" language="java" name="Test.TestDomainModel" project="hw1" file="/hw1/src/Test/TestDomainModel.java" 
+    binary="false" label="testDomainModel" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="68" y="0"/>    
+    <execution id="2">      
+      <position height="299" width="147" x="5" y="78"/>    
+    </execution>    
+    <execution id="9">      
+      <position height="100" width="147" x="5" y="411"/>    
+    </execution>  
+  </object>  
+  <object id="14" language="java" name="DomainModel.Contract" project="hw1" file="/hw1/src/DomainModel/Contract.java" 
+    binary="false" label="contract" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="383" y="0"/>    
+    <execution id="6">      
+      <position height="21" width="82" x="237" y="152"/>    
+    </execution>    
+    <execution id="8">      
+      <position height="175" width="82" x="237" y="181"/>    
+    </execution>    
+    <execution id="17">      
+      <position height="21" width="82" x="156" y="384"/>    
+    </execution>    
+    <execution id="11">      
+      <position height="21" width="82" x="156" y="432"/>    
+    </execution>    
+    <execution id="13">      
+      <position height="21" width="82" x="156" y="469"/>    
+    </execution>  
+  </object>  
+  <object id="18" language="java" name="DomainModel.Product" project="hw1" file="/hw1/src/DomainModel/Product.java" 
+    binary="false" label="product" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="273" y="0"/>    
+    <execution id="4">      
+      <position height="21" width="77" x="156" y="99"/>    
+    </execution>    
+    <execution id="16">      
+      <position height="105" width="77" x="156" y="230"/>    
+    </execution>  
+  </object>  
+  <object id="21" language="java" name="DomainModel.RecognitionStrategy" project="hw1" 
+    file="/hw1/src/DomainModel/RecognitionStrategy.java" binary="false" label="recognitionStrategy" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="420" y="0"/>    
+    <execution id="20">      
+      <position height="63" width="164" x="323" y="251"/>    
+    </execution>  
+  </object>  
+  <object id="24" language="java" name="DomainModel.CompleteRecognitionStrategy" project="hw1" 
+    file="/hw1/src/DomainModel/CompleteRecognitionStrategy.java" binary="false" label="completeRecognitionStrategy" 
+    type="class" autoSize="true">    
+    <position height="-1" width="-1" x="583" y="0"/>    
+    <execution id="23">      
+      <position height="21" width="229" x="491" y="272"/>    
+    </execution>    
+    <execution id="25">      
+      <position height="63" width="229" x="491" y="363"/>    
+    </execution>  
+  </object>  
+  <message id="3" operation="newWordProcessor(java.lang.String):DomainModel.Product" x="83" y="78">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="4"/>  
+  </message>  
+  <message id="5" operation="Contract(DomainModel.Product,Given.Money,Given.MfDate)" x="9" y="130">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="6"/>  
+  </message>  
+  <message id="7" operation="calculateRecognitions():void" x="28" y="162">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="8"/>  
+  </message>  
+  <message id="10" operation="recognizedRevenue(Given.MfDate):Given.Money">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="11"/>  
+  </message>  
+  <message id="12" operation="getRevenue():Given.Money">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="13"/>  
+  </message>  
+  <message id="15" operation="calculateRevenueRecognitions(DomainModel.Contract):void" x="203" y="211">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="16"/>  
+  </message>  
+  <message id="19" operation="calculateRevenueRecognitions(DomainModel.Contract):void" x="286" y="233">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="20"/>  
+  </message>  
+  <message id="22" operation="calculateRevenueRecognitions(DomainModel.Contract):void">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="23"/>  
+  </message>  
+  <message id="26" operation="addRevenueRecognition(DomainModel.RevenueRecognition):void">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="17"/>  
+  </message>
+</sequence-diagram>

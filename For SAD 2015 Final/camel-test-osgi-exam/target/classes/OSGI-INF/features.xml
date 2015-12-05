@@ -1,0 +1,5 @@
+<features xmlns="http://karaf.apache.org/xmlns/features/v1.0.0">
+  <feature name="examples-activemq-transformer" version="0.0.1-SNAPSHOT">
+    <bundle>mvn:asia.ait.sad.eip.examples/examples-activemq-transformer/0.0.1-SNAPSHOT</bundle>
+  </feature>
+</features>

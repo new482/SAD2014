@@ -1,0 +1,41 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+Apache ServiceMix
+
+
+From: 'an unknown organization'
+  - jsr173_api  javax.xml.bind:jsr173_api:jar:1.0
+
+
+From: 'Oracle Corporation' (http://www.oracle.com/)
+  - istack common utility code runtime (http://java.net/istack-commons/istack-commons-runtime/) com.sun.istack:istack-commons-runtime:jar:2.16
+    License: CDDL 1.1  (https://glassfish.java.net/public/CDDL+GPL_1_1.html)    License: GPL2 w/ CPE  (https://glassfish.java.net/public/CDDL+GPL_1_1.html)
+  - JAXB CORE (http://jaxb.java.net/) com.sun.xml.bind:jaxb-core:jar:2.2.7
+    License: CDDL 1.1  (https://glassfish.java.net/public/CDDL+GPL_1_1.html)    License: GPL2 w/ CPE  (https://glassfish.java.net/public/CDDL+GPL_1_1.html)
+
+From: 'Oracle Corpration' (http://www.oracle.com)
+  - fastinfoset (http://fi.java.net) com.sun.xml.fastinfoset:FastInfoset:jar:1.2.12
+    License: Apache License, Version 2.0  (http://www.opensource.org/licenses/apache2.0.php)
+
+From: 'QOS.ch' (http://www.qos.ch)
+  - SLF4J API Module (http://www.slf4j.org/slf4j-api) org.slf4j:slf4j-api:jar:1.6.6:compile
+    License: MIT style  (http://www.slf4j.org/license.html)
+
+From: 'Sun Microsystems' (http://www.sun.com/)
+  - Sun JAXB Reference Implementation Runtime (http://jaxb.java.net/jaxb-impl) com.sun.xml.bind:jaxb-impl:jar:2.2.7:compile
+    License: COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0  (http://www.sun.com/cddl/cddl.html)
+  - Java Architecture for XML Binding (JAXB API) (http://jaxb.java.net/jaxb-api) javax.xml.bind:jaxb-api:jar:2.2.7:compile
+    License: COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0  (http://www.sun.com/cddl/cddl.html)
+
+From: 'The Apache Software Foundation' (http://www.apache.org/)
+  - Camel :: Core (http://camel.apache.org/camel-parent/camel-core/camel-core) org.apache.camel:camel-core:jar:2.14.1:compile
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Camel :: JAXB (http://camel.apache.org/camel-parent/components/camel-jaxb) org.apache.camel:camel-jaxb:bundle:2.14.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+
+

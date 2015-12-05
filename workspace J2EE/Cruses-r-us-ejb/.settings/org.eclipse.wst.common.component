@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Cruses-r-us-ejb">
+        <wb-resource deploy-path="/" source-path="/ejbModule" tag="defaultRootSource"/>
+        <property name="java-output-path" value="/Cruses-r-us-ejb/build/classes"/>
+        <property name="ClientProject" value="Cruses-r-us-ejbClient"/>
+        <property name="ClientJARURI" value="Cruses-r-us-ejbClient.jar"/>
+    </wb-module>
+</project-modules>

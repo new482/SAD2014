@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence-diagram version="1.1.8" icons="true" automaticImage="PNG">  
+  <object id="1" language="java" name="com.hw2.controller.JpaController" project="Hw2JpaProject" 
+    file="/Hw2JpaProject/src/com/hw2/controller/JpaController.java" binary="false" label="jpaController" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="169" y="0"/>    
+    <execution id="2">      
+      <position height="448" width="101" x="5" y="73"/>    
+    </execution>    
+    <execution id="4">      
+      <position height="95" width="101" x="5" y="111"/>    
+    </execution>    
+    <execution id="6">      
+      <position height="101" width="101" x="5" y="249"/>    
+    </execution>    
+    <execution id="8">      
+      <position height="95" width="101" x="5" y="407"/>    
+    </execution>  
+  </object>  
+  <object id="19" language="java" name="com.hw2.domain.Product" project="Hw2JpaProject" 
+    file="/Hw2JpaProject/src/com/hw2/domain/Product.java" binary="false" label="product" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="271" y="0"/>    
+    <execution id="10">      
+      <position height="57" width="78" x="110" y="130"/>    
+    </execution>  
+  </object>  
+  <object id="22" language="java" name="com.hw2.domain.RecognitionStrategy" project="Hw2JpaProject" 
+    file="/Hw2JpaProject/src/com/hw2/domain/RecognitionStrategy.java" binary="false" label="recognitionStrategy" 
+    type="class" autoSize="true">    
+    <position height="-1" width="-1" x="309" y="0"/>  
+  </object>  
+  <object id="23" language="java" name="com.hw2.domain.CompleteRecognitionStrategy" project="Hw2JpaProject" 
+    file="/Hw2JpaProject/src/com/hw2/domain/CompleteRecognitionStrategy.java" binary="false" 
+    label="completeRecognitionStrategy" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="297" y="0"/>    
+    <execution id="21">      
+      <position height="19" width="195" x="336" y="149"/>    
+    </execution>  
+  </object>  
+  <object id="24" language="java" name="com.hw2.domain.ThreeWayRecognitionStrategy" project="Hw2JpaProject" 
+    file="/Hw2JpaProject/src/com/hw2/domain/ThreeWayRecognitionStrategy.java" binary="false" 
+    label="threeWayRecognitionStrategy" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="502" y="0"/>  
+  </object>  
+  <object id="25" language="java" name="com.hw2.domain.Contract" project="Hw2JpaProject" 
+    file="/Hw2JpaProject/src/com/hw2/domain/Contract.java" binary="false" label="contract" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="332" y="0"/>    
+    <execution id="12">      
+      <position height="19" width="78" x="737" y="269"/>    
+    </execution>    
+    <execution id="14">      
+      <position height="19" width="78" x="737" y="312"/>    
+    </execution>    
+    <execution id="18">      
+      <position height="19" width="78" x="737" y="464"/>    
+    </execution>  
+  </object>  
+  <object id="26" language="java" name="com.hw2.domain.RevenueRecognition" project="Hw2JpaProject" 
+    file="/Hw2JpaProject/src/com/hw2/domain/RevenueRecognition.java" binary="false" label="revenueRecognition" 
+    type="class" autoSize="true">    
+    <position height="-1" width="-1" x="894" y="0"/>    
+    <execution id="16">      
+      <position height="19" width="142" x="819" y="426"/>    
+    </execution>  
+  </object>  
+  <message id="3" operation="createProduct():void">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="4"/>  
+  </message>  
+  <message id="5" operation="createContract():void">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="6"/>  
+  </message>  
+  <message id="7" operation="addContractRevenueRecognition(long,double):void">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="8"/>  
+  </message>  
+  <message id="9" operation="newWordProcessor(java.lang.String):com.hw2.domain.Product">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="10"/>  
+  </message>  
+  <message id="11" operation="Contract(com.hw2.domain.Product,com.hw2.domain.base.Money,com.hw2.domain.base.MfDate)">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="12"/>  
+  </message>  
+  <message id="13" operation="getID():long">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="14"/>  
+  </message>  
+  <message id="15" operation="RevenueRecognition(com.hw2.domain.base.Money,com.hw2.domain.base.MfDate)">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="16"/>  
+  </message>  
+  <message id="17" operation="addRevenueRecognition(com.hw2.domain.RevenueRecognition):void">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="18"/>  
+  </message>  
+  <message id="20" operation="CompleteRecognitionStrategy()">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="21"/>  
+  </message>
+</sequence-diagram>

@@ -1,0 +1,40 @@
+package com.bazaar.clients;
+
+import java.util.Properties;
+
+import javax.naming.Context;
+import javax.naming.InitialContext;
+
+import com.bazaar.accounts.AccountManagerRemote;
+import com.bazaar.accounts.User;
+
+public class Client {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		try
+	      {
+	         Properties properties = new Properties();
+	         properties.put(Context.INITIAL_CONTEXT_FACTORY,
+	               "org.apache.openejb.client.RemoteInitialContextFactory");
+	         properties.put("java.naming.provider.url",
+	               "ejbd://localhost:4201");
+	         Context context = new InitialContext(properties);
+	         AccountManagerRemote accountManager =
+	               (AccountManagerRemote) context
+	               .lookup("AccountManagerRemote");
+
+	         User user = new User("Matt", "Dailey", "mdailey", "xyz");
+	         accountManager.createUser(user);
+
+	         user = accountManager.findUser(1);
+	         System.out.println("User name: " + user.getFirstName() + " "
+	               + user.getLastName() + " username: " + user.getUsername());
+	      }
+	      catch (javax.naming.NamingException ne)
+	      {
+	         ne.printStackTrace();
+	      }
+	}
+
+}

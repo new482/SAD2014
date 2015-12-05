@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1431017806725
+Build-Jdk: 1.7.0_67
+Built-By: new482
+Bundle-Blueprint: OSGI-INF/blueprint/blueprint.xml
+Bundle-Description: Example of the use of Camel, ActiveMQ, JAXB, and a P
+ OJO to transforma message in transit
+Bundle-DocURL: http://www.apache.org/
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: AIT SAD EIP Examples: ActiveMQ Transformer
+Bundle-SymbolicName: examples-activemq-transformer
+Bundle-Vendor: The Apache Software Foundation
+Bundle-Version: 0.0.1.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: asia.ait.sad.cameltest;version="0.0.1";uses:="javax.xml.
+ bind.annotation"
+Import-Package: javax.xml.bind.annotation,org.apache.activemq.camel.comp
+ onent,org.osgi.service.blueprint;version="[1.0.0,2.0.0)",org.apache.cam
+ el.osgi
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.7))"
+Tool: Bnd-2.3.0.201405100607

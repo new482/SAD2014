@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;activiti-camel/src/main/resources/OSGI-INF/activiti/OrderProcess.bpmn20.xml&apos; to &apos;OrderProcess.bpmn&apos;" description="Rename resource &apos;OrderProcess.bpmn20.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/OSGI-INF/activiti/OrderProcess.bpmn20.xml" name="OrderProcess.bpmn" stamp="1431183478029" updateReferences="true"/>
+</session>

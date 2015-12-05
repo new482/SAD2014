@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence-diagram version="1.1.8" icons="true" automaticImage="PNG">  
+  <object id="1" language="java" name="com.hw2.client.Client" project="Client" 
+    file="/Client/src/com/hw2/client/Client.java" binary="false" label="client" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="93" y="0"/>    
+    <execution id="2">      
+      <position height="859" width="70" x="5" y="73"/>    
+    </execution>    
+    <execution id="4">      
+      <position height="802" width="70" x="5" y="111"/>    
+    </execution>    
+    <execution id="6">      
+      <position height="269" width="7" x="37" y="149"/>    
+    </execution>    
+    <execution id="8">      
+      <position height="446" width="7" x="37" y="448"/>    
+    </execution>  
+  </object>  
+  <object id="19" language="java" name="com.hw2.bean.ProductBeanRemote" project="Hw2EJBClient" 
+    file="/Hw2EJBClient/ejbModule/com/hw2/bean/ProductBeanRemote.java" binary="false" label="productBeanRemote" 
+    type="interface" autoSize="true">    
+    <position height="-1" width="-1" x="203" y="0"/>    
+    <execution id="10">      
+      <position height="190" width="143" x="79" y="168"/>    
+    </execution>    
+    <execution id="12">      
+      <position height="113" width="7" x="147" y="286"/>    
+    </execution>    
+    <execution id="14">      
+      <position height="57" width="143" x="79" y="476"/>    
+    </execution>  
+  </object>  
+  <object id="26" language="java" name="com.hw2.bean.ContractBeanRemote" project="Hw2EJBClient" 
+    file="/Hw2EJBClient/ejbModule/com/hw2/bean/ContractBeanRemote.java" binary="false" label="contractBeanRemote" 
+    type="interface" autoSize="true">    
+    <position height="-1" width="-1" x="153" y="0"/>    
+    <execution id="16">      
+      <position height="134" width="148" x="226" y="566"/>    
+    </execution>    
+    <execution id="18">      
+      <position height="217" width="148" x="226" y="658"/>    
+    </execution>  
+  </object>  
+  <object id="31" language="java" name="com.hw2.bean.ProductBean" project="Hw2EJB" 
+    file="/Hw2EJB/ejbModule/com/hw2/bean/ProductBean.java" binary="false" label="productBean" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="488" y="0"/>    
+    <execution id="21">      
+      <position height="152" width="98" x="378" y="187"/>    
+    </execution>    
+    <execution id="23">      
+      <position height="66" width="7" x="424" y="314"/>    
+    </execution>    
+    <execution id="25">      
+      <position height="19" width="98" x="378" y="495"/>    
+    </execution>  
+  </object>  
+  <object id="38" language="java" name="com.hw2.bean.ContractBean" project="Hw2EJB" 
+    file="/Hw2EJB/ejbModule/com/hw2/bean/ContractBean.java" binary="false" label="contractBean" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="380" y="0"/>    
+    <execution id="28">      
+      <position height="96" width="103" x="480" y="585"/>    
+    </execution>    
+    <execution id="30">      
+      <position height="185" width="103" x="480" y="671"/>    
+    </execution>    
+    <execution id="46">      
+      <position height="104" width="7" x="528" y="733"/>    
+    </execution>  
+  </object>  
+  <object id="51" language="java" name="com.hw2.domain.Product" project="Hw2EJBClient" 
+    file="/Hw2EJBClient/ejbModule/com/hw2/domain/Product.java" binary="false" label="product" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="644" y="0"/>    
+    <execution id="33">      
+      <position height="114" width="78" x="587" y="206"/>    
+    </execution>    
+    <execution id="53">      
+      <position height="57" width="78" x="587" y="244"/>    
+    </execution>    
+    <execution id="35">      
+      <position height="19" width="7" x="626" y="282"/>    
+    </execution>    
+    <execution id="37">      
+      <position height="19" width="78" x="587" y="342"/>    
+    </execution>  
+  </object>  
+  <object id="56" language="java" name="com.hw2.domain.RecognitionStrategy" project="Hw2EJBClient" 
+    file="/Hw2EJBClient/ejbModule/com/hw2/domain/RecognitionStrategy.java" binary="false" label="recognitionStrategy" 
+    type="class" autoSize="true">    
+    <position height="-1" width="-1" x="741" y="0"/>  
+  </object>  
+  <object id="57" language="java" name="com.hw2.domain.CompleteRecognitionStrategy" project="Hw2EJBClient" 
+    file="/Hw2EJBClient/ejbModule/com/hw2/domain/CompleteRecognitionStrategy.java" binary="false" 
+    label="completeRecognitionStrategy" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="794" y="0"/>  
+  </object>  
+  <object id="58" language="java" name="com.hw2.domain.ThreeWayRecognitionStrategy" project="Hw2EJBClient" 
+    file="/Hw2EJBClient/ejbModule/com/hw2/domain/ThreeWayRecognitionStrategy.java" binary="false" 
+    label="threeWayRecognitionStrategy" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="925" y="0"/>    
+    <execution id="55">      
+      <position height="19" width="198" x="1012" y="263"/>    
+    </execution>  
+  </object>  
+  <object id="59" language="java" name="com.hw2.domain.Contract" project="Hw2EJBClient" 
+    file="/Hw2EJBClient/ejbModule/com/hw2/domain/Contract.java" binary="false" label="contract" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="698" y="0"/>    
+    <execution id="40">      
+      <position height="19" width="78" x="1214" y="604"/>    
+    </execution>    
+    <execution id="42">      
+      <position height="19" width="78" x="1214" y="643"/>    
+    </execution>    
+    <execution id="48">      
+      <position height="19" width="78" x="1214" y="759"/>    
+    </execution>    
+    <execution id="50">      
+      <position height="19" width="78" x="1214" y="799"/>    
+    </execution>  
+  </object>  
+  <object id="60" language="java" name="com.hw2.domain.RevenueRecognition" project="Hw2EJBClient" 
+    file="/Hw2EJBClient/ejbModule/com/hw2/domain/RevenueRecognition.java" binary="false" label="revenueRecognition" 
+    type="class" autoSize="true">    
+    <position height="-1" width="-1" x="1292" y="0"/>    
+    <execution id="44">      
+      <position height="19" width="142" x="1296" y="690"/>    
+    </execution>  
+  </object>  
+  <message id="3" operation="Client()">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="4"/>  
+  </message>  
+  <message id="5" operation="testCreateProduct():void">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="6"/>  
+  </message>  
+  <message id="7" operation="testCreateContract():void">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="8"/>  
+  </message>  
+  <message id="9" operation="createNewDatabase(java.lang.String):long">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="10"/>  
+  </message>  
+  <message id="11" operation="findProductName(long):java.lang.String">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="12"/>  
+  </message>  
+  <message id="13" operation="findProduct(long):com.hw2.domain.Product">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="14"/>  
+  </message>  
+  <message id="15" operation="createContract(com.hw2.domain.Product):long">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="16"/>  
+  </message>  
+  <message id="17" operation="addContractRevenueRecognition(long,double):long">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="18"/>  
+  </message>  
+  <message id="20" operation="createNewDatabase(java.lang.String):long">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="21"/>  
+  </message>  
+  <message id="22" operation="findProductName(long):java.lang.String">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="23"/>  
+  </message>  
+  <message id="24" operation="findProduct(long):com.hw2.domain.Product">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="25"/>  
+  </message>  
+  <message id="27" operation="createContract(com.hw2.domain.Product):long">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="28"/>  
+  </message>  
+  <message id="29" operation="addContractRevenueRecognition(long,double):long">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="30"/>  
+  </message>  
+  <message id="32" operation="newDatabase(java.lang.String):com.hw2.domain.Product">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="33"/>  
+  </message>  
+  <message id="34" operation="getID():long">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="35"/>  
+  </message>  
+  <message id="36" operation="getName():java.lang.String">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="37"/>  
+  </message>  
+  <message id="39" operation="Contract(com.hw2.domain.Product,com.hw2.domain.base.Money,com.hw2.domain.base.MfDate)">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="40"/>  
+  </message>  
+  <message id="41" operation="getID():long">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="42"/>  
+  </message>  
+  <message id="43" operation="RevenueRecognition(com.hw2.domain.base.Money,com.hw2.domain.base.MfDate)">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="44"/>  
+  </message>  
+  <message id="45" operation="findContract(long):com.hw2.domain.Contract">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="46"/>  
+  </message>  
+  <message id="47" operation="addRevenueRecognition(com.hw2.domain.RevenueRecognition):void">    
+    <end type="SOURCE" refId="46"/>    
+    <end type="TARGET" refId="48"/>  
+  </message>  
+  <message id="49" operation="getRevenue():com.hw2.domain.base.Money">    
+    <end type="SOURCE" refId="46"/>    
+    <end type="TARGET" refId="50"/>  
+  </message>  
+  <message id="52" operation="Product(java.lang.String,com.hw2.domain.RecognitionStrategy)">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="53"/>  
+  </message>  
+  <message id="54" operation="ThreeWayRecognitionStrategy(int,int)">    
+    <end type="SOURCE" refId="53"/>    
+    <end type="TARGET" refId="55"/>  
+  </message>
+</sequence-diagram>

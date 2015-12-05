@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1431160742027_1" label="activiti-examples" name="activiti-examples"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1431178985511_2" label="parent" name="parent">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/camel-activiti" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1425891118804_0" label="Window Working Set" name="Aggregate for window 1425891118803"/>
+</workingSetManager>

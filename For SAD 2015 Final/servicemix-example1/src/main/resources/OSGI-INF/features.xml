@@ -1,0 +1,5 @@
+<features xmlns="http://karaf.apache.org/xmlns/features/v1.0.0">
+  <feature name="servicemix-example1" version="0.0.1-SNAPSHOT">
+    <bundle>mvn:asia.ait.sad.eip.examples/servicemix-example1/0.0.1-SNAPSHOT</bundle>  
+  </feature>
+</features>

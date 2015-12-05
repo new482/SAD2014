@@ -1,0 +1,10 @@
+//com.springsource.config.ui.prefs.activePageIndex\:/Hw2Spring/src/test/resources/com/hw2/spring/OrderPersistenceTests-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/Hw2Spring/src/test/resources/com/hw2/spring/PersistenceTests-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/JmsReqReplyClient/src/main/resources/META-INF/spring/app-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/JmsReqReplyClient/src/test/resources/asia/ait/sad/jms/ExampleConfigurationTests-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/JmsReqReplyClient/src/test/resources/asia/ait/sad/jms/ReqReplyTest.xml=<?xml version\="1.0" encoding\="UTF-8"?>\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/Mid2014/src/main/resources/META-INF/spring/app-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/TitanSpring/src/test/resources/com/titan/travel/OrderPersistenceTests-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/TitanSpring/src/test/resources/com/titan/travel/TravelAgentTests-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/activiti-test/src/test/resources/activiti.cfg.xml=<?xml version\="1.0" encoding\="UTF-8"?>\n<activePage index\="0"/>
+eclipse.preferences.version=1

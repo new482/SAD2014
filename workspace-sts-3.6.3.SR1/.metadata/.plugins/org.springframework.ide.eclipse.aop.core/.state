@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="example-activiti"/>
+<aop-project name="activiti-camel"/>
+<aop-project name="sample"/>
+<aop-project name="Hw2Spring"/>
+<aop-project name="JmsReqReplyClient"/>
+</aop-reference-model>

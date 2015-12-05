@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.servicemix.examples.test.ActivitiTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 2.435 sec <<< FAILURE! - in org.apache.servicemix.examples.test.ActivitiTest
+deploy(org.apache.servicemix.examples.test.ActivitiTest)  Time elapsed: 2.433 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at org.apache.servicemix.examples.test.ActivitiTest.deploy(ActivitiTest.java:29)
+

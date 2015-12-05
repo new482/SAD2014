@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence-diagram version="1.1.8" icons="true" automaticImage="PNG">  
+  <object id="1" language="java" name="main.Main" project="revrec-jpa" file="/revrec-jpa/src/main/java/main/Main.java" 
+    binary="false" label="main1" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="2">      
+      <position height="247" width="0" x="0" y="95"/>    
+    </execution>  
+  </object>  
+  <object id="15" language="java" name="revrec.service.EMService" project="revrec-jpa" 
+    file="/revrec-jpa/src/main/java/revrec/service/EMService.java" binary="false" label="&lt;static&gt;" type="class" 
+    autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="4">      
+      <position height="19" width="0" x="0" y="114"/>    
+    </execution>  
+  </object>  
+  <object id="16" language="java" name="javax.persistence.EntityManager" project="revrec-jpa" 
+    file="/home/sdiox/.m2/repository/org/eclipse/persistence/javax.persistence/2.1.0-RC1/javax.persistence-2.1.0-RC1.jar" 
+    binary="true" label="em" type="interface" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="6">      
+      <position height="19" width="0" x="0" y="152"/>    
+    </execution>  
+  </object>  
+  <object id="17" language="java" name="javax.persistence.EntityTransaction" project="revrec-jpa" 
+    file="/home/sdiox/.m2/repository/org/eclipse/persistence/javax.persistence/2.1.0-RC1/javax.persistence-2.1.0-RC1.jar" 
+    binary="true" label="etx" type="interface" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="8">      
+      <position height="19" width="0" x="0" y="190"/>    
+    </execution>    
+    <execution id="14">      
+      <position height="19" width="0" x="0" y="304"/>    
+    </execution>  
+  </object>  
+  <object id="18" language="java" name="revrec.domain.Product" project="revrec-jpa" 
+    file="/revrec-jpa/src/main/java/revrec/domain/Product.java" binary="false" label="p1" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="10">      
+      <position height="19" width="0" x="0" y="228"/>    
+    </execution>    
+    <execution id="12">      
+      <position height="19" width="0" x="0" y="266"/>    
+    </execution>  
+  </object>  
+  <message id="3" operation="getEntityManager():javax.persistence.EntityManager">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="4"/>  
+  </message>  
+  <message id="5" operation="getTransaction():javax.persistence.EntityTransaction">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="6"/>  
+  </message>  
+  <message id="7" operation="begin():void">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="8"/>  
+  </message>  
+  <message id="9" operation="Product(java.lang.String,java.lang.String)">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="10"/>  
+  </message>  
+  <message id="11" operation="save(javax.persistence.EntityManager):void">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="12"/>  
+  </message>  
+  <message id="13" operation="commit():void">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="14"/>  
+  </message>
+</sequence-diagram>

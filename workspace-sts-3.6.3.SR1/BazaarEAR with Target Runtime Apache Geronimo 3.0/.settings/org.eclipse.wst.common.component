@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="BazaarEAR with Target Runtime Apache Geronimo 3.0">
+        <wb-resource deploy-path="/" source-path="/EarContent" tag="defaultRootSource"/>
+        <dependent-module archiveName="bazaarEJB.jar" deploy-path="/" handle="module:/resource/bazaarEJB/bazaarEJB">
+            <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="bazaarEJBClient.jar" deploy-path="/" handle="module:/resource/bazaarEJBClient/bazaarEJBClient">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="bazaarWAR.war" deploy-path="/" handle="module:/resource/bazaarWAR/bazaarWAR">
+            <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+    </wb-module>
+</project-modules>

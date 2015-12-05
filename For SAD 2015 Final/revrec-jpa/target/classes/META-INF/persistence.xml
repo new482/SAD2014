@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.1"
+	xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+	<persistence-unit name="revrec-jpa" transaction-type="RESOURCE_LOCAL">
+		<class>revrec.domain.Product</class>
+		<class>revrec.domain.RecognitionStrategy</class>
+		<class>revrec.domain.CompleteRecognitionStrategy</class>
+		<class>revrec.domain.ThreeWayRecognitionStrategy</class>
+		<class>revrec.domain.Contract</class>
+		<class>revrec.datatype.Money</class>
+		<class>revrec.domain.RevenueRecognition</class>
+		
+		<properties>
+			<property name="javax.persistence.jdbc.url"
+				value="jdbc:mysql://localhost:3306/RevenueRecognitionJPA" />
+			<property name="javax.persistence.jdbc.user" value="sad" />
+			<property name="javax.persistence.jdbc.password" value="sadpassword" />
+			<property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver" />
+			<property name="eclipselink.ddl-generation" value="create-tables" />
+			<property name="eclipselink.ddl-generation.output-mode"
+				value="both" />
+		</properties>
+	</persistence-unit>
+</persistence>
